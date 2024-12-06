@@ -1,0 +1,1124 @@
+{"abstracts-retrieval-response": {
+    "item": {
+        "ait:process-info": {
+            "ait:status": {
+                "@state": "update",
+                "@type": "core",
+                "@stage": "S300"
+            },
+            "ait:date-delivered": {
+                "@day": "07",
+                "@timestamp": "2023-08-07T17:46:05.000005-04:00",
+                "@year": "2023",
+                "@month": "08"
+            },
+            "ait:date-sort": {
+                "@day": "15",
+                "@year": "2023",
+                "@month": "12"
+            }
+        },
+        "xocs:meta": {"xocs:funding-list": {
+            "@pui-match": "primary",
+            "@has-funding-info": "1",
+            "xocs:funding": [
+                {"xocs:funding-agency-matched-string": "Center of Excellence for Marine Biotechnology"},
+                {"xocs:funding-agency-matched-string": "Center of Excellence for Shrimp Molecular Biology and Biotechnology"},
+                {"xocs:funding-agency-matched-string": "Chacheongsao Province"},
+                {
+                    "xocs:funding-agency-matched-string": "NSRF",
+                    "xocs:funding-id": "B05F640137"
+                },
+                {"xocs:funding-agency-matched-string": "Second Century Fund"},
+                {
+                    "xocs:funding-agency-matched-string": "Thailand Science Research and Innovation Fund Chulalongkorn University",
+                    "xocs:funding-id": "_165_21_31"
+                },
+                {
+                    "xocs:funding-agency-matched-string": "RDI",
+                    "xocs:funding-agency-acronym": "RDI",
+                    "xocs:funding-agency": "Race and Difference Initiative, Emory University",
+                    "xocs:funding-id": "P19-51879",
+                    "xocs:funding-agency-id": "http://data.elsevier.com/vocabulary/SciValFunders/100006529",
+                    "xocs:funding-agency-country": "http://sws.geonames.org/6252001/"
+                },
+                {
+                    "xocs:funding-agency-matched-string": "Chaipattana Foundation",
+                    "xocs:funding-agency": "Chaipattana Foundation",
+                    "xocs:funding-agency-id": "http://data.elsevier.com/vocabulary/SciValFunders/100009078",
+                    "xocs:funding-agency-country": "http://sws.geonames.org/1605651/"
+                },
+                {
+                    "xocs:funding-agency-matched-string": "Department of Marine Science",
+                    "xocs:funding-agency": "Department of Marine Science, University of Otago",
+                    "xocs:funding-agency-id": "http://data.elsevier.com/vocabulary/SciValFunders/100019334",
+                    "xocs:funding-agency-country": "http://sws.geonames.org/2186224/"
+                },
+                {
+                    "xocs:funding-agency-matched-string": "Royal Society",
+                    "xocs:funding-agency": "Royal Society",
+                    "xocs:funding-agency-id": "http://data.elsevier.com/vocabulary/SciValFunders/501100000288",
+                    "xocs:funding-agency-country": "http://sws.geonames.org/2635167/"
+                },
+                {
+                    "xocs:funding-agency-matched-string": "Chulalongkorn University",
+                    "xocs:funding-agency-acronym": "CU",
+                    "xocs:funding-agency": "Chulalongkorn University",
+                    "xocs:funding-agency-id": "http://data.elsevier.com/vocabulary/SciValFunders/501100002873",
+                    "xocs:funding-agency-country": "http://sws.geonames.org/1605651/"
+                },
+                {
+                    "xocs:funding-agency-matched-string": "Mahidol University",
+                    "xocs:funding-agency-acronym": "MU",
+                    "xocs:funding-agency": "Mahidol University",
+                    "xocs:funding-id": "BRF1-054/2565",
+                    "xocs:funding-agency-id": "http://data.elsevier.com/vocabulary/SciValFunders/501100004156",
+                    "xocs:funding-agency-country": "http://sws.geonames.org/1605651/"
+                },
+                {
+                    "xocs:funding-agency-matched-string": "National Science and Technology Development Agency",
+                    "xocs:funding-agency-acronym": "สวทช",
+                    "xocs:funding-agency": "National Science and Technology Development Agency",
+                    "xocs:funding-agency-id": "http://data.elsevier.com/vocabulary/SciValFunders/501100004192",
+                    "xocs:funding-agency-country": "http://sws.geonames.org/1605651/"
+                },
+                {
+                    "xocs:funding-agency-matched-string": "Agricultural Research Development Agency",
+                    "xocs:funding-agency-acronym": "ARDA",
+                    "xocs:funding-agency": "Agricultural Research Development Agency",
+                    "xocs:funding-id": [
+                        {"$": "ICA\\R1\\180038"},
+                        {"$": "PRP6505030720"}
+                    ],
+                    "xocs:funding-agency-id": "http://data.elsevier.com/vocabulary/SciValFunders/501100005076",
+                    "xocs:funding-agency-country": "http://sws.geonames.org/1605651/"
+                },
+                {
+                    "xocs:funding-agency-matched-string": "Faculty of Science, Mahidol University",
+                    "xocs:funding-agency": "Faculty of Science, Mahidol University",
+                    "xocs:funding-agency-id": "http://data.elsevier.com/vocabulary/SciValFunders/501100007180",
+                    "xocs:funding-agency-country": "http://sws.geonames.org/1605651/"
+                },
+                {
+                    "xocs:funding-agency-matched-string": "National Center for Genetic Engineering and Biotechnology",
+                    "xocs:funding-agency-acronym": "BIOTEC",
+                    "xocs:funding-agency": "National Center for Genetic Engineering and Biotechnology",
+                    "xocs:funding-agency-id": "http://data.elsevier.com/vocabulary/SciValFunders/501100011057",
+                    "xocs:funding-agency-country": "http://sws.geonames.org/1605651/"
+                }
+            ],
+            "xocs:funding-addon-generated-timestamp": "2023-08-01T13:10:21.004Z",
+            "xocs:funding-text": [
+                {"$": "The authors would like to thank W. Eamsaard, P. Boodgumarn and W. Pattarayingsakul for their help in the laboratory and data analyses and to acknowledge assistance from the staff of the Two Water Systems Agricultural Experimentation Project (Farm Song-Narm), the Chaipattana Foundation, Chacheongsao Province for shrimp culture and facilities. The authors would also like to thank Prof. T.W. Flegel for assistance in editing the draft manuscript. The scientific equipment and facilities were provided by the Center of Excellence for Marine Biotechnology (CEMB), Department of Marine Science, Faculty of Science, Chulalongkorn University, Center of Excellence for Shrimp Molecular Biology and Biotechnology (Centex Shrimp), Faculty of Science, Mahidol University, and the National Center for Genetic Engineering and Biotechnology (BIOTEC), NSTDA of Thailand. SP, KS and AP acknowledge the support from Mahidol University (Fundamental Fund: Basic Research Fund: fiscal year 2022) (Grant no. BRF1-054/2565). PS and WP acknowledge the support from the Second Century Fund (C2F), Chulalongkorn University . KS and AP would like to acknowledge that this research has received funding support from the NSRF via the Program Management Unit for Human Resources & Institutional Development, Research and Innovation (Grant No: B05F640137 )."},
+                {"$": "This work was financially supported by RDI Management for National Strategic and Network Division (P19-51879) from the National Science and Technology Development Agency (NSTDA), by the Agricultural Research Development Agency (ARDA) (PRP6505030720), by the International Collaborative Award (ICA\\R1\\180038) from the Royal Society, by Mahidol University (Fundamental Fund: Basic Research Fund: fiscal year 2022) (Grant no. BRF1-054/2565), by the Thailand Science Research and Innovation Fund Chulalongkorn University (CU_FRB65_food(18)_165_21_31), and by the NSRF via the Program Management Unit for Human Resources & Institutional Development, Research and Innovation (Grant No: B05F640137).The authors would like to thank W. Eamsaard, P. Boodgumarn and W. Pattarayingsakul for their help in the laboratory and data analyses and to acknowledge assistance from the staff of the Two Water Systems Agricultural Experimentation Project (Farm Song-Narm), the Chaipattana Foundation, Chacheongsao Province for shrimp culture and facilities. The authors would also like to thank Prof. T.W. Flegel for assistance in editing the draft manuscript. The scientific equipment and facilities were provided by the Center of Excellence for Marine Biotechnology (CEMB), Department of Marine Science, Faculty of Science, Chulalongkorn University, Center of Excellence for Shrimp Molecular Biology and Biotechnology (Centex Shrimp), Faculty of Science, Mahidol University, and the National Center for Genetic Engineering and Biotechnology (BIOTEC), NSTDA of Thailand. SP, KS and AP acknowledge the support from Mahidol University (Fundamental Fund: Basic Research Fund: fiscal year 2022) (Grant no. BRF1-054/2565). PS and WP acknowledge the support from the Second Century Fund (C2F), Chulalongkorn University. KS and AP would like to acknowledge that this research has received funding support from the NSRF via the Program Management Unit for Human Resources & Institutional Development, Research and Innovation (Grant No: B05F640137)."},
+                {"$": "This work was financially supported by RDI Management for National Strategic and Network Division (P19-51879) from the National Science and Technology Development Agency (NSTDA) , by the Agricultural Research Development Agency (ARDA) ( PRP6505030720 ), by the International Collaborative Award (ICA\\R1\\180038) from the Royal Society , by Mahidol University (Fundamental Fund: Basic Research Fund: fiscal year 2022) (Grant no. BRF1-054/2565 ), by the Thailand Science Research and Innovation Fund Chulalongkorn University ( CU_FRB65_food(18)_165_21_31 ), and by the NSRF via the Program Management Unit for Human Resources & Institutional Development, Research and Innovation (Grant No: B05F640137 )."}
+            ],
+            "xocs:funding-addon-type": "http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined"
+        }},
+        "bibrecord": {
+            "head": {
+                "author-group": [
+                    {
+                        "affiliation": {
+                            "country": "Thailand",
+                            "address-part": "Pathum Thani",
+                            "@afid": "60011947",
+                            "@country": "tha",
+                            "organization": [
+                                {"$": "National Center for Genetic Engineering and Biotechnology (BIOTEC)"},
+                                {"$": "National Science and Technology Development Agency (NSTDA)"}
+                            ],
+                            "affiliation-id": [
+                                {"@afid": "60011947"},
+                                {"@afid": "60004391"}
+                            ],
+                            "@affiliation-instance-id": "OB2BibRecID-949746532-513ef3107326946ce4307296dc5fdd64-1",
+                            "ce:source-text": "National Center for Genetic Engineering and Biotechnology (BIOTEC), National Science and Technology Development Agency (NSTDA), Pathum Thani, Thailand."
+                        },
+                        "author": [
+                            {
+                                "ce:given-name": "Penpicha",
+                                "preferred-name": {
+                                    "ce:given-name": "Penpicha",
+                                    "ce:initials": "P.",
+                                    "ce:surname": "Satanwat",
+                                    "ce:indexed-name": "Satanwat P."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-f7e25f660f112319f945e0b962c8bbec-1",
+                                "@seq": "1",
+                                "ce:initials": "P.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Satanwat",
+                                "@auid": "57208553550",
+                                "ce:indexed-name": "Satanwat P."
+                            },
+                            {
+                                "ce:given-name": "Paveena",
+                                "preferred-name": {
+                                    "ce:given-name": "Paveena",
+                                    "ce:initials": "P.",
+                                    "ce:surname": "Tapaneeyaworawong",
+                                    "ce:indexed-name": "Tapaneeyaworawong P."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-cd074cbfca92504eb7cf1dfe5b4d9a67-1",
+                                "@seq": "2",
+                                "ce:initials": "P.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Tapaneeyaworawong",
+                                "@auid": "56374287000",
+                                "ce:indexed-name": "Tapaneeyaworawong P."
+                            },
+                            {
+                                "ce:given-name": "Piyanuch",
+                                "preferred-name": {
+                                    "ce:given-name": "Piyanuch",
+                                    "ce:initials": "P.",
+                                    "ce:surname": "Wechprasit",
+                                    "ce:indexed-name": "Wechprasit P."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-d6fff5aa5f4c521863d69dfca51ad98e-1",
+                                "@seq": "3",
+                                "ce:initials": "P.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Wechprasit",
+                                "@auid": "57208407732",
+                                "ce:indexed-name": "Wechprasit P."
+                            },
+                            {
+                                "ce:given-name": "Tharin",
+                                "preferred-name": {
+                                    "ce:given-name": "Tharin",
+                                    "ce:initials": "T.",
+                                    "ce:surname": "Boonprasertsakul",
+                                    "ce:indexed-name": "Boonprasertsakul T."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-859000d6a09532f5a262f4270e571b77-1",
+                                "@seq": "4",
+                                "ce:initials": "T.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Boonprasertsakul",
+                                "@auid": "58307243400",
+                                "ce:indexed-name": "Boonprasertsakul T."
+                            },
+                            {
+                                "ce:given-name": "Kallaya",
+                                "preferred-name": {
+                                    "ce:given-name": "Kallaya",
+                                    "ce:initials": "K.",
+                                    "ce:surname": "Sritunyalucksana",
+                                    "ce:indexed-name": "Sritunyalucksana K."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-d4a6ef9c18db685803e66c8c2e64f820-1",
+                                "@seq": "6",
+                                "ce:initials": "K.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Sritunyalucksana",
+                                "@auid": "6507431846",
+                                "ce:indexed-name": "Sritunyalucksana K."
+                            },
+                            {
+                                "ce:given-name": "Anuphap",
+                                "preferred-name": {
+                                    "ce:given-name": "Anuphap",
+                                    "ce:initials": "A.",
+                                    "ce:surname": "Prachumwat",
+                                    "ce:indexed-name": "Prachumwat A."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-fb51904c402e83aad1e63ad77954999b-1",
+                                "@seq": "7",
+                                "ce:initials": "A.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Prachumwat",
+                                "@auid": "9939200600",
+                                "ce:indexed-name": "Prachumwat A."
+                            },
+                            {
+                                "ce:given-name": "Sorawit",
+                                "preferred-name": {
+                                    "ce:given-name": "Sorawit",
+                                    "ce:initials": "S.",
+                                    "ce:surname": "Powtongsook",
+                                    "ce:indexed-name": "Powtongsook S."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-81e7e55089d1ae8cb7ae45e2e4229f6d-1",
+                                "@seq": "8",
+                                "ce:initials": "S.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Powtongsook",
+                                "@auid": "6507593766",
+                                "ce:indexed-name": "Powtongsook S."
+                            }
+                        ]
+                    },
+                    {
+                        "affiliation": {
+                            "country": "Thailand",
+                            "@afid": "60028190",
+                            "@country": "tha",
+                            "city": "Bangkok",
+                            "organization": [
+                                {"$": "Center of Excellence for Marine Biotechnology"},
+                                {"$": "Department of Marine Science"},
+                                {"$": "Faculty of Science"},
+                                {"$": "Chulalongkorn University"}
+                            ],
+                            "affiliation-id": {
+                                "@afid": "60028190",
+                                "@dptid": "104425679"
+                            },
+                            "@affiliation-instance-id": "OB2BibRecID-949746532-8260f0a00f92608065e8e3e019f10892-1",
+                            "ce:source-text": "Center of Excellence for Marine Biotechnology, Department of Marine Science, Faculty of Science, Chulalongkorn University, Bangkok, Thailand.",
+                            "@dptid": "104425679"
+                        },
+                        "author": [
+                            {
+                                "ce:given-name": "Penpicha",
+                                "preferred-name": {
+                                    "ce:given-name": "Penpicha",
+                                    "ce:initials": "P.",
+                                    "ce:surname": "Satanwat",
+                                    "ce:indexed-name": "Satanwat P."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-f7e25f660f112319f945e0b962c8bbec-1",
+                                "@seq": "1",
+                                "ce:initials": "P.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Satanwat",
+                                "@auid": "57208553550",
+                                "ce:indexed-name": "Satanwat P."
+                            },
+                            {
+                                "ce:given-name": "Paveena",
+                                "preferred-name": {
+                                    "ce:given-name": "Paveena",
+                                    "ce:initials": "P.",
+                                    "ce:surname": "Tapaneeyaworawong",
+                                    "ce:indexed-name": "Tapaneeyaworawong P."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-cd074cbfca92504eb7cf1dfe5b4d9a67-1",
+                                "@seq": "2",
+                                "ce:initials": "P.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Tapaneeyaworawong",
+                                "@auid": "56374287000",
+                                "ce:indexed-name": "Tapaneeyaworawong P."
+                            },
+                            {
+                                "ce:given-name": "Tharin",
+                                "preferred-name": {
+                                    "ce:given-name": "Tharin",
+                                    "ce:initials": "T.",
+                                    "ce:surname": "Boonprasertsakul",
+                                    "ce:indexed-name": "Boonprasertsakul T."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-859000d6a09532f5a262f4270e571b77-1",
+                                "@seq": "4",
+                                "ce:initials": "T.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Boonprasertsakul",
+                                "@auid": "58307243400",
+                                "ce:indexed-name": "Boonprasertsakul T."
+                            },
+                            {
+                                "ce:given-name": "Wiboonluk",
+                                "preferred-name": {
+                                    "ce:given-name": "Wiboonluk",
+                                    "ce:initials": "W.",
+                                    "ce:surname": "Pungrasmi",
+                                    "ce:indexed-name": "Pungrasmi W."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-8e004e2db6197ef352e150a06042830c-1",
+                                "@seq": "5",
+                                "ce:initials": "W.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Pungrasmi",
+                                "@auid": "23993014300",
+                                "ce:indexed-name": "Pungrasmi W."
+                            },
+                            {
+                                "ce:given-name": "Sorawit",
+                                "preferred-name": {
+                                    "ce:given-name": "Sorawit",
+                                    "ce:initials": "S.",
+                                    "ce:surname": "Powtongsook",
+                                    "ce:indexed-name": "Powtongsook S."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-81e7e55089d1ae8cb7ae45e2e4229f6d-1",
+                                "@seq": "8",
+                                "ce:initials": "S.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Powtongsook",
+                                "@auid": "6507593766",
+                                "ce:indexed-name": "Powtongsook S."
+                            }
+                        ]
+                    },
+                    {
+                        "affiliation": {
+                            "country": "Thailand",
+                            "@afid": "60028190",
+                            "@country": "tha",
+                            "city": "Bangkok",
+                            "organization": [
+                                {"$": "Department of Environmental Engineering"},
+                                {"$": "Faculty of Engineering"},
+                                {"$": "Chulalongkorn University"}
+                            ],
+                            "affiliation-id": {
+                                "@afid": "60028190",
+                                "@dptid": "109090604"
+                            },
+                            "@affiliation-instance-id": "OB2BibRecID-949746532-b4cba2955e3df7d603c453a28cee8bed-1",
+                            "ce:source-text": "Department of Environmental Engineering, Faculty of Engineering, Chulalongkorn University, Bangkok, Thailand.",
+                            "@dptid": "109090604"
+                        },
+                        "author": [
+                            {
+                                "ce:given-name": "Penpicha",
+                                "preferred-name": {
+                                    "ce:given-name": "Penpicha",
+                                    "ce:initials": "P.",
+                                    "ce:surname": "Satanwat",
+                                    "ce:indexed-name": "Satanwat P."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-f7e25f660f112319f945e0b962c8bbec-1",
+                                "@seq": "1",
+                                "ce:initials": "P.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Satanwat",
+                                "@auid": "57208553550",
+                                "ce:indexed-name": "Satanwat P."
+                            },
+                            {
+                                "ce:given-name": "Wiboonluk",
+                                "preferred-name": {
+                                    "ce:given-name": "Wiboonluk",
+                                    "ce:initials": "W.",
+                                    "ce:surname": "Pungrasmi",
+                                    "ce:indexed-name": "Pungrasmi W."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-8e004e2db6197ef352e150a06042830c-1",
+                                "@seq": "5",
+                                "ce:initials": "W.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Pungrasmi",
+                                "@auid": "23993014300",
+                                "ce:indexed-name": "Pungrasmi W."
+                            }
+                        ]
+                    },
+                    {
+                        "affiliation": {
+                            "country": "Thailand",
+                            "@afid": "60012718",
+                            "@country": "tha",
+                            "city": "Bangkok",
+                            "organization": [
+                                {"$": "Center of Excellence for Shrimp Molecular Biology and Biotechnology (Centex Shrimp)"},
+                                {"$": "Faculty of Science"},
+                                {"$": "Mahidol University"}
+                            ],
+                            "affiliation-id": {
+                                "@afid": "60012718",
+                                "@dptid": "103674492"
+                            },
+                            "@affiliation-instance-id": "OB2BibRecID-949746532-8aa131875df85ade04233d253e94d0c2-1",
+                            "ce:source-text": "Center of Excellence for Shrimp Molecular Biology and Biotechnology (Centex Shrimp), Faculty of Science, Mahidol University, Bangkok, Thailand.",
+                            "@dptid": "103674492"
+                        },
+                        "author": [
+                            {
+                                "ce:given-name": "Piyanuch",
+                                "preferred-name": {
+                                    "ce:given-name": "Piyanuch",
+                                    "ce:initials": "P.",
+                                    "ce:surname": "Wechprasit",
+                                    "ce:indexed-name": "Wechprasit P."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-d6fff5aa5f4c521863d69dfca51ad98e-1",
+                                "@seq": "3",
+                                "ce:initials": "P.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Wechprasit",
+                                "@auid": "57208407732",
+                                "ce:indexed-name": "Wechprasit P."
+                            },
+                            {
+                                "ce:given-name": "Kallaya",
+                                "preferred-name": {
+                                    "ce:given-name": "Kallaya",
+                                    "ce:initials": "K.",
+                                    "ce:surname": "Sritunyalucksana",
+                                    "ce:indexed-name": "Sritunyalucksana K."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-d4a6ef9c18db685803e66c8c2e64f820-1",
+                                "@seq": "6",
+                                "ce:initials": "K.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Sritunyalucksana",
+                                "@auid": "6507431846",
+                                "ce:indexed-name": "Sritunyalucksana K."
+                            },
+                            {
+                                "ce:given-name": "Anuphap",
+                                "preferred-name": {
+                                    "ce:given-name": "Anuphap",
+                                    "ce:initials": "A.",
+                                    "ce:surname": "Prachumwat",
+                                    "ce:indexed-name": "Prachumwat A."
+                                },
+                                "@author-instance-id": "OB2BibRecID-949746532-fb51904c402e83aad1e63ad77954999b-1",
+                                "@seq": "7",
+                                "ce:initials": "A.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Prachumwat",
+                                "@auid": "9939200600",
+                                "ce:indexed-name": "Prachumwat A."
+                            }
+                        ]
+                    }
+                ],
+                "citation-title": "Total ammonia nitrogen removal and microbial community dynamics in an outdoor HDPE-lined shrimp pond with no water discharge",
+                "abstracts": "© 2023 Elsevier B.V.This study assessed the characteristics of a zero-discharge outdoor high-density polyethylene (HDPE)-lined demonstration aquaculture pond (400 m2) in terms of water quality variables, total ammonia nitrogen (TAN) removal and oxygen net primary production (NPP) indices, and photosynthetic microbiome over a 76-day crop cycle. The shrimp harvest yield was 4.1 t/ha/crop with an average daily gain (ADG) of 0.15 g/day and a feed conversion ratio (FCR) of 1.49. During shrimp cultivation with a semi-intensive stocking density (40 shrimp/m2), there were low levels of TAN (<1.01 mg-N/L), nitrite (<0.21 mg-N/L), and nitrate (<2.79 mg-N/L). Ammonia removal was mainly mediated by photoautotrophic uptake, as evidenced by the consistent estimated TAN uptake rate of 0.05 ± 0.02 g-N/m3 h, which was calculated based on photosynthesis. The overall TAN removal rate of 0.10 ± 0.08 g-N/m3 h was maintained by suspended microorganisms in water, which exceeded that of microorganisms attached to the HDPE liner surface. A positive oxygen NPP of 0.24\u20131.16 g-O2/m3 h during light availability indicated prevailing autotrophic conditions. The bacterial community in the water was dominated by Phyla Pseudomonadota (Proteobacteria; 16\u201332%), Bacteroidota (Bacteroidetes; 15\u201329%), Cyanobacteria (7\u201335%), and Actinomycetota (Actinobacteria; 3\u201339%). The chloroplast amplicon sequence variants (ASVs) indicated abundances of Bacillariophyta (27\u201397%) and Chlorophyta (0.4\u201367%). High centric diatom populations (Bacillariophyta) were detected throughout cultivation, while the proportion of green algae (Chlorophyta) was positively correlated with increased TAN availability when feeding was increased. The findings enabled estimations of TAN removal and oxygen NPP rates and provided an understanding of correlations between environmental variables and bacterial and phytoplankton populations in the outdoor lined shrimp pond.",
+                "correspondence": [
+                    {
+                        "affiliation": {
+                            "country": "Thailand",
+                            "@country": "tha",
+                            "city": "Pathum Thani",
+                            "organization": [
+                                {"$": "National Center for Genetic Engineering and Biotechnology (BIOTEC)"},
+                                {"$": "National Science and Technology Development Agency (NSTDA)"}
+                            ],
+                            "@affiliation-instance-id": "OB2BibRecID-949746532-81602e7f829b3e9b6bfbcc9e51c907e1-1"
+                        },
+                        "person": {
+                            "ce:given-name": "Sorawit",
+                            "@author-instance-id": "OB2BibRecID-949746532-b0fb21df424602bd7c8d72b7c48374c2-1",
+                            "ce:initials": "S.",
+                            "ce:surname": "Powtongsook",
+                            "ce:indexed-name": "Powtongsook S."
+                        }
+                    },
+                    {
+                        "affiliation": {
+                            "country": "Thailand",
+                            "@country": "tha",
+                            "city": "Bangkok",
+                            "organization": [
+                                {"$": "Center of Excellence for Shrimp Molecular Biology and Biotechnology (Centex Shrimp)"},
+                                {"$": "Faculty of Science"},
+                                {"$": "Mahidol University"}
+                            ],
+                            "@affiliation-instance-id": "OB2BibRecID-949746532-e659712f12fbf3b6fb9382421c3429f1-1"
+                        },
+                        "person": {
+                            "ce:given-name": "Anuphap",
+                            "@author-instance-id": "OB2BibRecID-949746532-8e0bd6a7ad3f3bdc01c7053be24c58b2-1",
+                            "ce:initials": "A.",
+                            "ce:surname": "Prachumwat",
+                            "ce:indexed-name": "Prachumwat A."
+                        }
+                    }
+                ],
+                "citation-info": {
+                    "author-keywords": {"author-keyword": [
+                        {
+                            "$": "Ammonia removal",
+                            "@xml:lang": "eng",
+                            "@original": "y"
+                        },
+                        {
+                            "$": "Carrying capacity",
+                            "@xml:lang": "eng",
+                            "@original": "y"
+                        },
+                        {
+                            "$": "Microbiome",
+                            "@xml:lang": "eng",
+                            "@original": "y"
+                        },
+                        {
+                            "$": "Outdoor shrimp pond",
+                            "@xml:lang": "eng",
+                            "@original": "y"
+                        },
+                        {
+                            "$": "Phytoplankton",
+                            "@xml:lang": "eng",
+                            "@original": "y"
+                        }
+                    ]},
+                    "citation-type": {"@code": "ar"},
+                    "citation-language": {
+                        "@language": "English",
+                        "@xml:lang": "eng"
+                    },
+                    "abstract-language": {
+                        "@language": "English",
+                        "@xml:lang": "eng"
+                    }
+                },
+                "source": {
+                    "website": {"ce:e-address": {
+                        "$": "http://www.journals.elsevier.com/aquaculture/",
+                        "@type": "email"
+                    }},
+                    "translated-sourcetitle": {
+                        "$": "Aquaculture",
+                        "@xml:lang": "eng"
+                    },
+                    "volisspag": {"voliss": {"@volume": "577"}},
+                    "@type": "j",
+                    "sourcetitle": "Aquaculture",
+                    "publicationdate": {
+                        "month": "12",
+                        "year": "2023",
+                        "date-text": {
+                            "@xfab-added": "true",
+                            "$": "15 December 2023"
+                        },
+                        "day": "15"
+                    },
+                    "codencode": "AQCLA",
+                    "sourcetitle-abbrev": "Aquaculture",
+                    "@country": "nld",
+                    "issn": {
+                        "$": "00448486",
+                        "@type": "print"
+                    },
+                    "publicationyear": {"@first": "2023"},
+                    "publisher": {"publishername": "Elsevier B.V."},
+                    "article-number": "739898",
+                    "@srcid": "29419"
+                },
+                "enhancement": {"classificationgroup": {"classifications": [
+                    {
+                        "@type": "GEOCLASS",
+                        "classification": {
+                            "classification-code": "73.5",
+                            "classification-description": "GENERAL MICROBIAL ECOLOGY"
+                        }
+                    },
+                    {
+                        "@type": "ASJC",
+                        "classification": "1104"
+                    },
+                    {
+                        "@type": "SUBJABBR",
+                        "classification": "AGRI"
+                    }
+                ]}},
+                "grantlist": {
+                    "@complete": "y",
+                    "grant-text": {
+                        "$": "This work was financially supported by RDI Management for National Strategic and Network Division (P19-51879) from the National Science and Technology Development Agency (NSTDA), by the Agricultural Research Development Agency (ARDA) (PRP6505030720), by the International Collaborative Award (ICA\\R1\\180038) from the Royal Society, by Mahidol University (Fundamental Fund: Basic Research Fund: fiscal year 2022) (Grant no. BRF1-054/2565), by the Thailand Science Research and Innovation Fund Chulalongkorn University (CU_FRB65_food(18)_165_21_31), and by the NSRF via the Program Management Unit for Human Resources & Institutional Development, Research and Innovation (Grant No: B05F640137).The authors would like to thank W. Eamsaard, P. Boodgumarn and W. Pattarayingsakul for their help in the laboratory and data analyses and to acknowledge assistance from the staff of the Two Water Systems Agricultural Experimentation Project (Farm Song-Narm), the Chaipattana Foundation, Chacheongsao Province for shrimp culture and facilities. The authors would also like to thank Prof. T.W. Flegel for assistance in editing the draft manuscript. The scientific equipment and facilities were provided by the Center of Excellence for Marine Biotechnology (CEMB), Department of Marine Science, Faculty of Science, Chulalongkorn University, Center of Excellence for Shrimp Molecular Biology and Biotechnology (Centex Shrimp), Faculty of Science, Mahidol University, and the National Center for Genetic Engineering and Biotechnology (BIOTEC), NSTDA of Thailand. SP, KS and AP acknowledge the support from Mahidol University (Fundamental Fund: Basic Research Fund: fiscal year 2022) (Grant no. BRF1-054/2565). PS and WP acknowledge the support from the Second Century Fund (C2F), Chulalongkorn University. KS and AP would like to acknowledge that this research has received funding support from the NSRF via the Program Management Unit for Human Resources & Institutional Development, Research and Innovation (Grant No: B05F640137).",
+                        "@xml:lang": "eng"
+                    },
+                    "grant": [
+                        {
+                            "grant-acronym": "CU",
+                            "grant-agency": {
+                                "@iso-code": "tha",
+                                "$": "Chulalongkorn University"
+                            },
+                            "grant-agency-id": "501100002873"
+                        },
+                        {
+                            "grant-acronym": "RDI",
+                            "grant-agency": {
+                                "@iso-code": "usa",
+                                "$": "Race and Difference Initiative, Emory University"
+                            },
+                            "grant-agency-id": "100006529"
+                        },
+                        {
+                            "grant-id": "PRP6505030720",
+                            "grant-acronym": "ARDA",
+                            "grant-agency": {
+                                "@iso-code": "tha",
+                                "$": "Agricultural Research Development Agency"
+                            },
+                            "grant-agency-id": "501100005076"
+                        }
+                    ]
+                }
+            },
+            "item-info": {
+                "copyright": {
+                    "$": "Copyright 2023 Elsevier B.V., All rights reserved.",
+                    "@type": "Elsevier"
+                },
+                "dbcollection": [
+                    {"$": "GEO"},
+                    {"$": "REAXYSCAR"},
+                    {"$": "SCOPUS"},
+                    {"$": "Scopusbase"}
+                ],
+                "history": {"date-created": {
+                    "@day": "01",
+                    "@timestamp": "BST 14:30:53",
+                    "@year": "2023",
+                    "@month": "08"
+                }},
+                "itemidlist": {
+                    "itemid": [
+                        {
+                            "$": "2026075336",
+                            "@idtype": "PUI"
+                        },
+                        {
+                            "$": "949746532",
+                            "@idtype": "CAR-ID"
+                        },
+                        {
+                            "$": "10553462",
+                            "@idtype": "GEO"
+                        },
+                        {
+                            "$": "20232158022",
+                            "@idtype": "REAXYSCAR"
+                        },
+                        {
+                            "$": "20232825704",
+                            "@idtype": "SCOPUS"
+                        },
+                        {
+                            "$": "85165929707",
+                            "@idtype": "SCP"
+                        },
+                        {
+                            "$": "85165929707",
+                            "@idtype": "SGR"
+                        }
+                    ],
+                    "ce:pii": "S0044848623006725",
+                    "ce:ern": "pii:S0044848623006725",
+                    "ce:doi": "10.1016/j.aquaculture.2023.739898"
+                }
+            },
+            "tail": {"bibliography": {
+                "@refcount": "35",
+                "reference": [
+                    {
+                        "ref-fulltext": "Zhang, Z., Liu, G., Feng, Y., Chen, Z., Zhan, P., Ren, N., Inhibiting sulfate reducing bacteria activity by denitrification in an anaerobic baffled reactor: influencing factors and mechanism analysis. Desalin. Water Treat. 52 (2014), 4144\u20134153, 10.1080/19443994.2013.803326.",
+                        "@reference-instance-id": "OB2BibRecID-949746532-8505589c25256840a98eee255a7041ad-35",
+                        "@id": "35",
+                        "ref-info": {
+                            "ref-publicationyear": {"@first": "2014"},
+                            "ref-title": {"ref-titletext": "Inhibiting sulfate reducing bacteria activity by denitrification in an anaerobic baffled reactor: influencing factors and mechanism analysis"},
+                            "refd-itemidlist": {"itemid": [
+                                {
+                                    "$": "10.1080/19443994.2013.803326",
+                                    "@idtype": "DOI"
+                                },
+                                {
+                                    "$": "bb0170",
+                                    "@idtype": "FRAGMENTID"
+                                },
+                                {
+                                    "$": "84878896157",
+                                    "@idtype": "SGR"
+                                }
+                            ]},
+                            "ref-volisspag": {
+                                "voliss": {"@volume": "52"},
+                                "pagerange": {
+                                    "@first": "4144",
+                                    "@last": "4153"
+                                }
+                            },
+                            "ref-authors": {"author": [
+                                {
+                                    "@seq": "1",
+                                    "ce:initials": "Z.",
+                                    "@_fa": "true",
+                                    "ce:surname": "Zhang",
+                                    "ce:indexed-name": "Zhang Z."
+                                },
+                                {
+                                    "@seq": "2",
+                                    "ce:initials": "G.",
+                                    "@_fa": "true",
+                                    "ce:surname": "Liu",
+                                    "ce:indexed-name": "Liu G."
+                                },
+                                {
+                                    "@seq": "3",
+                                    "ce:initials": "Y.",
+                                    "@_fa": "true",
+                                    "ce:surname": "Feng",
+                                    "ce:indexed-name": "Feng Y."
+                                },
+                                {
+                                    "@seq": "4",
+                                    "ce:initials": "Z.",
+                                    "@_fa": "true",
+                                    "ce:surname": "Chen",
+                                    "ce:indexed-name": "Chen Z."
+                                },
+                                {
+                                    "@seq": "5",
+                                    "ce:initials": "P.",
+                                    "@_fa": "true",
+                                    "ce:surname": "Zhan",
+                                    "ce:indexed-name": "Zhan P."
+                                },
+                                {
+                                    "@seq": "6",
+                                    "ce:initials": "N.",
+                                    "@_fa": "true",
+                                    "ce:surname": "Ren",
+                                    "ce:indexed-name": "Ren N."
+                                }
+                            ]},
+                            "ref-sourcetitle": "Desalin. Water Treat."
+                        },
+                        "ce:source-text": "Zhang, Z., Liu, G., Feng, Y., Chen, Z., Zhan, P., Ren, N., 2014. Inhibiting sulfate reducing bacteria activity by denitrification in an anaerobic baffled reactor: influencing factors and mechanism analysis. Desalin. Water Treat. 52, 4144\u20134153. doi: 10.1080/19443994.2013.803326"
+                    }
+                ]
+            }}
+        }
+    },
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "coredata": {
+        "srctype": "j",
+        "eid": "2-s2.0-85165929707",
+        "dc:description": "This study assessed the characteristics of a zero-discharge outdoor high-density polyethylene (HDPE)-lined demonstration aquaculture pond (400 m2) in terms of water quality variables, total ammonia nitrogen (TAN) removal and oxygen net primary production (NPP) indices, and photosynthetic microbiome over a 76-day crop cycle. The shrimp harvest yield was 4.1 t/ha/crop with an average daily gain (ADG) of 0.15 g/day and a feed conversion ratio (FCR) of 1.49. During shrimp cultivation with a semi-intensive stocking density (40 shrimp/m2), there were low levels of TAN (<1.01 mg-N/L), nitrite (<0.21 mg-N/L), and nitrate (<2.79 mg-N/L). Ammonia removal was mainly mediated by photoautotrophic uptake, as evidenced by the consistent estimated TAN uptake rate of 0.05 ± 0.02 g-N/m3 h, which was calculated based on photosynthesis. The overall TAN removal rate of 0.10 ± 0.08 g-N/m3 h was maintained by suspended microorganisms in water, which exceeded that of microorganisms attached to the HDPE liner surface. A positive oxygen NPP of 0.24\u20131.16 g-O2/m3 h during light availability indicated prevailing autotrophic conditions. The bacterial community in the water was dominated by Phyla Pseudomonadota (Proteobacteria; 16\u201332%), Bacteroidota (Bacteroidetes; 15\u201329%), Cyanobacteria (7\u201335%), and Actinomycetota (Actinobacteria; 3\u201339%). The chloroplast amplicon sequence variants (ASVs) indicated abundances of Bacillariophyta (27\u201397%) and Chlorophyta (0.4\u201367%). High centric diatom populations (Bacillariophyta) were detected throughout cultivation, while the proportion of green algae (Chlorophyta) was positively correlated with increased TAN availability when feeding was increased. The findings enabled estimations of TAN removal and oxygen NPP rates and provided an understanding of correlations between environmental variables and bacterial and phytoplankton populations in the outdoor lined shrimp pond.",
+        "prism:coverDate": "2023-12-15",
+        "prism:aggregationType": "Journal",
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85165929707",
+        "subtypeDescription": "Article",
+        "dc:creator": {"author": [{
+            "ce:given-name": "Penpicha",
+            "preferred-name": {
+                "ce:given-name": "Penpicha",
+                "ce:initials": "P.",
+                "ce:surname": "Satanwat",
+                "ce:indexed-name": "Satanwat P."
+            },
+            "@seq": "1",
+            "ce:initials": "P.",
+            "@_fa": "true",
+            "affiliation": [
+                {
+                    "@id": "60011947",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947"
+                },
+                {
+                    "@id": "60028190",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190"
+                },
+                {
+                    "@id": "60028190",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190"
+                }
+            ],
+            "ce:surname": "Satanwat",
+            "@auid": "57208553550",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57208553550",
+            "ce:indexed-name": "Satanwat P."
+        }]},
+        "link": [
+            {
+                "@_fa": "true",
+                "@rel": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165929707"
+            },
+            {
+                "@_fa": "true",
+                "@rel": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85165929707&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@rel": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85165929707&origin=inward"
+            }
+        ],
+        "prism:publicationName": "Aquaculture",
+        "source-id": "29419",
+        "pii": "S0044848623006725",
+        "citedby-count": "0",
+        "prism:volume": "577",
+        "subtype": "ar",
+        "dc:title": "Total ammonia nitrogen removal and microbial community dynamics in an outdoor HDPE-lined shrimp pond with no water discharge",
+        "openaccess": "0",
+        "openaccessFlag": "false",
+        "prism:doi": "10.1016/j.aquaculture.2023.739898",
+        "prism:issn": "00448486",
+        "publishercopyright": "© 2023 Elsevier B.V.",
+        "article-number": "739898",
+        "dc:identifier": "SCOPUS_ID:85165929707",
+        "dc:publisher": "Elsevier B.V."
+    },
+    "idxterms": null,
+    "language": {"@xml:lang": "eng"},
+    "authkeywords": {"author-keyword": [
+        {
+            "@_fa": "true",
+            "$": "Ammonia removal"
+        },
+        {
+            "@_fa": "true",
+            "$": "Carrying capacity"
+        },
+        {
+            "@_fa": "true",
+            "$": "Microbiome"
+        },
+        {
+            "@_fa": "true",
+            "$": "Outdoor shrimp pond"
+        },
+        {
+            "@_fa": "true",
+            "$": "Phytoplankton"
+        }
+    ]},
+    "subject-areas": {"subject-area": [{
+        "@_fa": "true",
+        "$": "Aquatic Science",
+        "@code": "1104",
+        "@abbrev": "AGRI"
+    }]},
+    "authors": {"author": [
+        {
+            "ce:given-name": "Penpicha",
+            "preferred-name": {
+                "ce:given-name": "Penpicha",
+                "ce:initials": "P.",
+                "ce:surname": "Satanwat",
+                "ce:indexed-name": "Satanwat P."
+            },
+            "@seq": "1",
+            "ce:initials": "P.",
+            "@_fa": "true",
+            "affiliation": [
+                {
+                    "@id": "60011947",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947"
+                },
+                {
+                    "@id": "60028190",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190"
+                },
+                {
+                    "@id": "60028190",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190"
+                }
+            ],
+            "ce:surname": "Satanwat",
+            "@auid": "57208553550",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57208553550",
+            "ce:indexed-name": "Satanwat P."
+        },
+        {
+            "ce:given-name": "Paveena",
+            "preferred-name": {
+                "ce:given-name": "Paveena",
+                "ce:initials": "P.",
+                "ce:surname": "Tapaneeyaworawong",
+                "ce:indexed-name": "Tapaneeyaworawong P."
+            },
+            "@seq": "2",
+            "ce:initials": "P.",
+            "@_fa": "true",
+            "affiliation": [
+                {
+                    "@id": "60011947",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947"
+                },
+                {
+                    "@id": "60028190",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190"
+                }
+            ],
+            "ce:surname": "Tapaneeyaworawong",
+            "@auid": "56374287000",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56374287000",
+            "ce:indexed-name": "Tapaneeyaworawong P."
+        },
+        {
+            "ce:given-name": "Piyanuch",
+            "preferred-name": {
+                "ce:given-name": "Piyanuch",
+                "ce:initials": "P.",
+                "ce:surname": "Wechprasit",
+                "ce:indexed-name": "Wechprasit P."
+            },
+            "@seq": "3",
+            "ce:initials": "P.",
+            "@_fa": "true",
+            "affiliation": [
+                {
+                    "@id": "60011947",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947"
+                },
+                {
+                    "@id": "60012718",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718"
+                }
+            ],
+            "ce:surname": "Wechprasit",
+            "@auid": "57208407732",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57208407732",
+            "ce:indexed-name": "Wechprasit P."
+        },
+        {
+            "ce:given-name": "Tharin",
+            "preferred-name": {
+                "ce:given-name": "Tharin",
+                "ce:initials": "T.",
+                "ce:surname": "Boonprasertsakul",
+                "ce:indexed-name": "Boonprasertsakul T."
+            },
+            "@seq": "4",
+            "ce:initials": "T.",
+            "@_fa": "true",
+            "affiliation": [
+                {
+                    "@id": "60011947",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947"
+                },
+                {
+                    "@id": "60028190",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190"
+                }
+            ],
+            "ce:surname": "Boonprasertsakul",
+            "@auid": "58307243400",
+            "author-url": "https://api.elsevier.com/content/author/author_id/58307243400",
+            "ce:indexed-name": "Boonprasertsakul T."
+        },
+        {
+            "ce:given-name": "Wiboonluk",
+            "preferred-name": {
+                "ce:given-name": "Wiboonluk",
+                "ce:initials": "W.",
+                "ce:surname": "Pungrasmi",
+                "ce:indexed-name": "Pungrasmi W."
+            },
+            "@seq": "5",
+            "ce:initials": "W.",
+            "@_fa": "true",
+            "affiliation": [
+                {
+                    "@id": "60028190",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190"
+                },
+                {
+                    "@id": "60028190",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190"
+                }
+            ],
+            "ce:surname": "Pungrasmi",
+            "@auid": "23993014300",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23993014300",
+            "ce:indexed-name": "Pungrasmi W."
+        },
+        {
+            "ce:given-name": "Kallaya",
+            "preferred-name": {
+                "ce:given-name": "Kallaya",
+                "ce:initials": "K.",
+                "ce:surname": "Sritunyalucksana",
+                "ce:indexed-name": "Sritunyalucksana K."
+            },
+            "@seq": "6",
+            "ce:initials": "K.",
+            "@_fa": "true",
+            "affiliation": [
+                {
+                    "@id": "60011947",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947"
+                },
+                {
+                    "@id": "60012718",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718"
+                }
+            ],
+            "ce:surname": "Sritunyalucksana",
+            "@auid": "6507431846",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6507431846",
+            "ce:indexed-name": "Sritunyalucksana K."
+        },
+        {
+            "ce:given-name": "Anuphap",
+            "preferred-name": {
+                "ce:given-name": "Anuphap",
+                "ce:initials": "A.",
+                "ce:surname": "Prachumwat",
+                "ce:indexed-name": "Prachumwat A."
+            },
+            "@seq": "7",
+            "ce:initials": "A.",
+            "@_fa": "true",
+            "affiliation": [
+                {
+                    "@id": "60011947",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947"
+                },
+                {
+                    "@id": "60012718",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718"
+                }
+            ],
+            "ce:surname": "Prachumwat",
+            "@auid": "9939200600",
+            "author-url": "https://api.elsevier.com/content/author/author_id/9939200600",
+            "ce:indexed-name": "Prachumwat A."
+        },
+        {
+            "ce:given-name": "Sorawit",
+            "preferred-name": {
+                "ce:given-name": "Sorawit",
+                "ce:initials": "S.",
+                "ce:surname": "Powtongsook",
+                "ce:indexed-name": "Powtongsook S."
+            },
+            "@seq": "8",
+            "ce:initials": "S.",
+            "@_fa": "true",
+            "affiliation": [
+                {
+                    "@id": "60011947",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947"
+                },
+                {
+                    "@id": "60028190",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190"
+                }
+            ],
+            "ce:surname": "Powtongsook",
+            "@auid": "6507593766",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6507593766",
+            "ce:indexed-name": "Powtongsook S."
+        }
+    ]}
+}}

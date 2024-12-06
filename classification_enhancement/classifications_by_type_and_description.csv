@@ -1,0 +1,1322 @@
+type,classification_description,Count
+SUBJABBR,MEDI,5639
+FLXCLASS,FLUIDEX,4290
+SUBJABBR,ENGI,2994
+EMCLASS,Drug Literature Index,2752
+SUBJABBR,BIOC,2436
+EMCLASS,Clinical and Experimental Biochemistry,2316
+SUBJABBR,CHEM,2161
+SUBJABBR,PHYS,2072
+SUBJABBR,MATE,1988
+SUBJABBR,AGRI,1901
+SUBJABBR,COMP,1827
+EMCLASS,"Microbiology: Bacteriology, Mycology, Parasitology and Virology",1752
+SUBJABBR,ENVI,1712
+SUBJABBR,CENG,1555
+SUBJABBR,SOCI,1515
+CPXCLASS,Organic Compounds,1287
+CPXCLASS,Chemical Products Generally,1279
+SUBJABBR,IMMU,1158
+ASJC,1000,1088
+SUBJABBR,MULT,1088
+SUBJABBR,ENER,1063
+SUBJABBR,PHAR,1056
+CPXCLASS,Chemical Reactions,1038
+EMCLASS,"Public Health, Social Medicine and Epidemiology",996
+ASJC,2500,907
+ASJC,1600,905
+CPXCLASS,Chemical Operations,877
+CPXCLASS,Inorganic Compounds,863
+CPXCLASS,Materials Science,817
+EMCLASS,"Immunology, Serology and Transplantation",815
+CPXCLASS,Chemical Agents and Basic Industrial Chemicals,787
+EMCLASS,Cancer,761
+ASJC,1500,755
+ASJC,2725,753
+SUBJABBR,MATH,741
+ASJC,1706,725
+SUBJABBR,EART,713
+ASJC,2208,705
+ASJC,1705,699
+EMCLASS,Neurology and Neurosurgery,683
+ASJC,2700,680
+EMCLASS,Gastroenterology,674
+ASJC,2739,664
+ASJC,2105,652
+ASJC,2200,635
+FLXCLASS,MIXING AND SEPARATION,605
+CPXCLASS,Nanotechnology,603
+SUBJABBR,BUSI,602
+ASJC,1605,599
+ASJC,1303,597
+SUBJABBR,VETE,591
+ASJC,2102,566
+EMCLASS,"Biophysics, Bioengineering and Medical Instrumentation",564
+ASJC,2505,562
+CABSCLASS,IMMUNOLOGY AND INFECTIOUS DISEASES,551
+ASJC,3104,549
+ASJC,3400,507
+CPXCLASS,Chemistry,505
+SUBJABBR,NEUR,505
+ASJC,1312,504
+SUBJABBR,ARTS,502
+EMCLASS,Clinical and Experimental Pharmacology,497
+GEOCLASS,Geobase,487
+ASJC,1606,483
+ASJC,1602,481
+ASJC,1702,475
+ASJC,3004,469
+ASJC,2211,459
+EMCLASS,"Chest Diseases, Thoracic Surgery and Tuberculosis",458
+ASJC,3003,453
+CPXCLASS,Physical Chemistry,451
+ASJC,2507,447
+SUBJABBR,DENT,447
+CABSCLASS,General,445
+ASJC,2210,438
+EMCLASS,Radiology,434
+ASJC,1105,425
+ASJC,3106,425
+ASJC,2403,418
+SUBJABBR,ECON,415
+CPXCLASS,Biology,412
+EMCLASS,Urology and Nephrology,410
+ASJC,3100,405
+CPXCLASS,"Physical Properties of Gases, Liquids and Solids",404
+ENCOMPASSCLASS,Petroleum Refining and Petrochemicals,403
+CPXCLASS,Organic Polymers,399
+ASJC,1106,398
+ASJC,1300,392
+ASJC,3002,385
+CPXCLASS,Atomic and Molecular Physics,383
+ENCOMPASSCLASS,Petroleum Substitutes,380
+CABSCLASS,APPLIED MICROBIOLOGY AND BIOTECHNOLOGY,377
+EMCLASS,Adverse Reactions Titles,375
+ASJC,2300,375
+EMCLASS,Human Genetics,375
+EMCLASS,Cardiovascular Diseases and Cardiovascular Surgery,374
+ASJC,2310,372
+ASJC,2305,369
+EMCLASS,Pediatrics and Pediatric Surgery,367
+CABSCLASS,GENETICS AND MOLECULAR BIOLOGY,362
+ASJC,1103,362
+CPXCLASS,"Computer Software, Data Handling and Applications",361
+ASJC,3304,361
+EMCLASS,General Pathology and Pathological Anatomy,359
+ASJC,2304,355
+SUBJABBR,DECI,353
+ASJC,3105,350
+ASJC,1313,348
+ASJC,2746,345
+CPXCLASS,Solid State Physics,340
+ASJC,1712,338
+CABSCLASS,CANCER RESEARCH,338
+EMCLASS,Psychiatry,335
+ASJC,1305,335
+ASJC,2103,329
+ASJC,1710,322
+ASJC,1503,321
+SUBJABBR,NURS,321
+CPXCLASS,Thermodynamics,319
+ASJC,1707,317
+ASJC,1110,317
+ASJC,2404,314
+ASJC,2728,314
+EMCLASS,Hematology,308
+ASJC,2723,306
+ASJC,2736,306
+ASJC,2504,306
+ASJC,2311,305
+ASJC,2205,304
+FLXCLASS,FLUID MECHANICS,303
+CABSCLASS,PLANT SCIENCE,301
+EMCLASS,Otorhinolaryngology,298
+ASJC,3500,296
+CABSCLASS,ECOLOGICAL AND ENVIRONMENTAL SCIENCES,295
+EMCLASS,Environmental Health and Pollution Control,282
+ASJC,2308,281
+CPXCLASS,Computer Applications,280
+ASJC,3305,279
+ASJC,2215,278
+ASJC,1708,277
+EMCLASS,Orthopedic Surgery,277
+SUBJABBR,HEAL,276
+ASJC,2730,276
+ASJC,2209,276
+CPXCLASS,Mathematical Statistics,271
+CABSCLASS,NEUROSCIENCE,270
+ASJC,2726,264
+ASJC,2715,255
+ASJC,1104,255
+ASJC,1311,254
+EMCLASS,Dermatology and Venereology,252
+ASJC,2719,249
+ASJC,3300,248
+ASJC,2201,244
+ASJC,1802,243
+ASJC,2741,242
+ASJC,1508,242
+ASJC,1607,239
+EMCLASS,Obstetrics and Gynecology,234
+ASJC,1700,229
+ASJC,1100,229
+ASJC,2508,226
+CPXCLASS,Biochemistry,226
+SUBJABBR,PSYC,226
+ENCOMPASSCLASS,Catalysts/Zeolites,225
+ASJC,2606,221
+CPXCLASS,Biological Materials and Tissue Engineering,220
+CPXCLASS,Light/Optics,220
+ASJC,1502,218
+ASJC,2307,212
+ASJC,1709,212
+ASJC,1408,211
+ASJC,1306,208
+CPXCLASS,Medicine and Pharmacology,205
+CPXCLASS,Probability Theory,204
+EMCLASS,Internal Medicine,203
+CPXCLASS,Gas Fuels,201
+ASJC,2002,201
+ASJC,2735,198
+ASJC,2808,197
+ASJC,2204,196
+ASJC,2738,196
+EMCLASS,Endocrinology,195
+ASJC,2213,194
+CPXCLASS,Data Processing and Image Processing,190
+CPXCLASS,Industrial Economics,187
+ASJC,2400,186
+ASJC,1909,186
+ASJC,2732,184
+EMCLASS,Ophthalmology,183
+CPXCLASS,Minerals,182
+ASJC,3101,182
+ASJC,2720,181
+ASJC,1604,180
+CPXCLASS,Systems Science,180
+ASJC,2100,179
+ASJC,2733,178
+CPXCLASS,Numerical Methods,177
+CPXCLASS,Production Engineering,176
+ASJC,2727,176
+CPXCLASS,Optical Devices and Systems,175
+ASJC,2701,173
+ASJC,1307,172
+ASJC,2705,171
+ASJC,1711,168
+ASJC,2303,168
+EMCLASS,Surgery,166
+ASJC,2207,165
+CPXCLASS,Artificial Intelligence,163
+CPXCLASS,Management,162
+ASJC,2502,161
+CPXCLASS,Accidents and Accident Prevention,159
+CPXCLASS,Food Products,159
+ASJC,2708,157
+ASJC,3107,156
+EMCLASS,Pharmacy,154
+ASJC,2506,154
+ASJC,2301,151
+CPXCLASS,Liquid Fuels,151
+FLXCLASS,WATER ENGINEERING,150
+CPXCLASS,Electrochemistry,149
+CPXCLASS,Electricity: Basic Concepts and Phenomena,148
+ASJC,2600,147
+ASJC,2406,147
+ASJC,1900,146
+CPXCLASS,"Fluid Flow, General",145
+ASJC,2000,144
+CPXCLASS,Atmospheric Properties,144
+ASJC,1601,141
+ASJC,1701,141
+EMCLASS,"Health Policy, Economics and Management",141
+ASJC,2707,141
+FLXCLASS,PROCESS EQUIPMENT,140
+CPXCLASS,Light and Optics,138
+ASJC,1102,137
+CPXCLASS,Optimization Techniques,136
+CPXCLASS,Crystalline Solids and Crystallography,134
+ASJC,3310,134
+ASJC,2312,133
+ASJC,2402,132
+ASJC,1203,132
+ASJC,2800,132
+ASJC,2712,131
+ASJC,2916,130
+ASJC,2731,130
+ASJC,1501,129
+ASJC,3306,128
+CABSCLASS,CELL AND DEVELOPMENTAL BIOLOGY,127
+CPXCLASS,Biomedical Engineering,127
+ASJC,1314,127
+ASJC,1403,127
+ASJC,3312,126
+ASJC,2721,126
+CPXCLASS,Soils and Soil Mechanics,125
+CPXCLASS,Mathematics,124
+CPXCLASS,Chemical Plants and Equipment,124
+CPXCLASS,Information Theory and Signal Processing,123
+ASJC,2405,123
+ASJC,1101,123
+ASJC,2729,121
+ASJC,1400,120
+CPXCLASS,Mechanics,119
+ASJC,2503,118
+ASJC,2604,117
+ASJC,2713,114
+CPXCLASS,Social Sciences,113
+ASJC,1308,113
+ASJC,2611,112
+CPXCLASS,Polymeric Materials,111
+CPXCLASS,Optical Variables Measurements,110
+CPXCLASS,Semiconducting Materials,110
+ASJC,1304,110
+ASJC,2804,109
+CPXCLASS,Precious Metals,108
+CPXCLASS,Coating Materials,108
+CPXCLASS,Health Care,108
+CPXCLASS,Agricultural Products,108
+CPXCLASS,Cost and Value Engineering,108
+CPXCLASS,Metallurgy,107
+FLXCLASS,PETROLEUM ENGINEERING,106
+CPXCLASS,Metallurgy and Metallography,106
+FLXCLASS,WASTEWATER AND OTHER EFFLUENT/LIQUID WASTE ENGIN.,105
+ASJC,3322,105
+CPXCLASS,Biotechnology,105
+ASJC,3005,105
+CPXCLASS,Applied Mathematics,105
+CPXCLASS,Information Sources and Analysis,104
+CPXCLASS,"Combinatorial Mathematics, Includes Graph Theory, Set Theory",104
+CPXCLASS,"Others, including Bismuth, Boron, Cadmium, Cobalt, Mercury, Niobium, Selenium, Silicon, Tellurium and Zirconium",103
+ASJC,2003,103
+ASJC,1109,103
+ASJC,2734,103
+ASJC,3504,102
+ASJC,3301,102
+CPXCLASS,Natural Rubber,100
+ASJC,1907,100
+ASJC,3000,100
+CPXCLASS,Quantum Theory,98
+ASJC,3110,97
+ASJC,3612,97
+ASJC,2737,97
+EMCLASS,Anesthesiology,96
+CPXCLASS,Control Systems,96
+CPXCLASS,Semiconductor Devices and Integrated Circuits,95
+ASJC,1603,94
+ASJC,1200,94
+CPXCLASS,Ergonomics and Human Factors Engineering,94
+CPXCLASS,Industrial Wastes,94
+CPXCLASS,Information and Communication Theory,94
+CPXCLASS,Immunology,93
+ASJC,2900,92
+CPXCLASS,Data Processing,91
+ASJC,3303,91
+CPXCLASS,Glass,89
+CPXCLASS,Cellulose and Derivatives,89
+ASJC,2706,88
+CPXCLASS,Structural Members and Shapes,88
+CPXCLASS,Industrial Wastes Treatment and Disposal,88
+CPXCLASS,Computer Programming,87
+CPXCLASS,Biological Materials,87
+CPXCLASS,Concrete,86
+CPXCLASS,"Chemistry, General",85
+ASJC,1315,83
+CPXCLASS,"Electricity, Basic Concepts and Phenomena",83
+ASJC,2740,83
+ASJC,1111,83
+CPXCLASS,Energy Utilization,82
+ASJC,1404,82
+ASJC,3103,81
+CPXCLASS,Energy Conservation,81
+CPXCLASS,Colloid Chemistry,81
+ASJC,2718,81
+CPXCLASS,Environmental Impact and Protection,80
+CPXCLASS,High Energy Physics,80
+EMCLASS,Gerontology and Geriatrics,79
+ASJC,1912,79
+CPXCLASS,Electric Batteries and Fuel Cells,79
+CPXCLASS,Electric Power Systems,78
+EMCLASS,Toxicology,78
+CPXCLASS,Fuel Cells,78
+CPXCLASS,Polymer Products,78
+ASJC,1803,76
+ASJC,2717,75
+CPXCLASS,Quality Assurance and Control,75
+ASJC,1405,74
+CPXCLASS,Crystal Lattice,74
+ASJC,1201,74
+ASJC,1202,74
+ASJC,1310,74
+ASJC,2309,73
+ASJC,2716,72
+CPXCLASS,Secondary Batteries,72
+ASJC,1911,72
+CPXCLASS,Air Pollution Sources,71
+ASJC,2613,71
+CPXCLASS,Zinc and Alloys,71
+ASJC,2501,71
+ASJC,2216,70
+FLXCLASS,HEAT EXCHANGE,70
+CPXCLASS,Environmental Engineering,69
+GEOCLASS,"HEALTH, HEALTH SYSTEMS AND SERVICES",67
+ASJC,1507,67
+CPXCLASS,Medicine,67
+ASJC,1910,67
+CPXCLASS,Extraterrestrial Physics and Stellar Phenomena,66
+ASJC,3200,66
+ASJC,3313,66
+CPXCLASS,Heat Treatment Processes,65
+CPXCLASS,Polymerization,65
+CPXCLASS,"Others, incl. Bismuth, Boron, Cadmium, Cobalt, Mercury, Niobium, Selenium, Silicon, Tellurium",65
+ASJC,3316,65
+CPXCLASS,Electron Tubes,64
+CPXCLASS,Water Treatment Techniques,64
+ASJC,3207,64
+CPXCLASS,"Computer Theory, Includes Computational Logic, Automata Theory, Switching Theory, Programming Theory",63
+CPXCLASS,Digital Computers and Systems,62
+EMCLASS,Arthritis and Rheumatism,62
+ASJC,3320,62
+CPXCLASS,Printing Equipment,62
+CPXCLASS,Agricultural Wastes,62
+ASJC,1505,61
+ASJC,2104,61
+ASJC,2203,60
+ASJC,2748,60
+ASJC,2724,60
+CPXCLASS,Control Equipment,59
+CPXCLASS,Electromagnetic Waves,59
+ASJC,2803,59
+CPXCLASS,Solid Fuels,58
+ASJC,2101,58
+CPXCLASS,Water Resources,58
+ASJC,1208,58
+CABSCLASS,CLINICAL CHEMISTRY,57
+GEOCLASS,Medical Geography,56
+FLXCLASS,CORROSION,56
+ASJC,2614,56
+CPXCLASS,"Cellulose, Lignin and Derivatives",56
+CPXCLASS,Nickel,55
+CPXCLASS,Metallography,55
+CPXCLASS,Geology,55
+ASJC,2747,55
+CPXCLASS,Buildings and Towers,55
+CPXCLASS,Classical Physics,54
+EMCLASS,Occupational Health and Industrial Medicine,54
+ASJC,2742,54
+CPXCLASS,Industrial Wastes Treatment,53
+CPXCLASS,"Data Storage, Equipment and Techniques",52
+ENCOMPASSCLASS,Health and Environment,52
+ASJC,2605,52
+CPXCLASS,Robotics,51
+ASJC,1406,51
+ASJC,1108,51
+ASJC,1906,51
+ASJC,1213,50
+CPXCLASS,Information Retrieval and Use,50
+CPXCLASS,Calculus,50
+ASJC,3314,50
+CPXCLASS,Imaging Techniques,50
+ASJC,1901,50
+EMCLASS,Physiology,50
+CPXCLASS,"Data Communication, Equipment and Techniques",50
+ASJC,2306,50
+CPXCLASS,Solar Energy and Phenomena,49
+CPXCLASS,Engineering Research,49
+CPXCLASS,Cement,49
+ASJC,2401,49
+ASJC,1401,48
+ASJC,3601,48
+CPXCLASS,Crystalline Solids,47
+GEOCLASS,Soil mechanics,47
+ASJC,2722,47
+CPXCLASS,Copper,47
+ASJC,3403,47
+ASJC,2703,47
+ASJC,3614,46
+CPXCLASS,Heat Transfer,46
+ASJC,1704,46
+CPXCLASS,Water Pollution,46
+CPXCLASS,Energy Storage,45
+CPXCLASS,Ecology and Ecosystems,45
+ASJC,2802,45
+CPXCLASS,Statistical Methods,45
+CPXCLASS,Plasma Physics,45
+CPXCLASS,Air Pollution Control,45
+ASJC,1407,45
+CPXCLASS,Oil Field Production Operations,45
+ASJC,2212,45
+ASJC,3315,44
+CPXCLASS,Bioengineering,44
+CPXCLASS,Agricultural Methods,44
+ASJC,3203,44
+CPXCLASS,Meteorology,43
+ASJC,2214,43
+EMCLASS,Developmental Biology and Teratology,43
+CPXCLASS,Ceramics,42
+CPXCLASS,Pulp and Paper,42
+CPXCLASS,Aluminum Alloys,42
+CPXCLASS,Radio Systems and Equipment,42
+CPXCLASS,Algebra,42
+CPXCLASS,Solar Power,42
+CPXCLASS,Microfluidics,41
+ASJC,1506,41
+CPXCLASS,Electric Components,41
+ASJC,1804,41
+CPXCLASS,Electric Power Transmission,41
+ASJC,2610,41
+CPXCLASS,Agricultural Equipment and Methods,40
+GEOCLASS,Pollution and waste management - non-radioactive,40
+ASJC,2001,40
+EMCLASS,"Anatomy, Anthropology, Embryology and Histology",40
+CPXCLASS,"Magnetism, Basic Concepts and Phenomena",40
+CPXCLASS,Soil Mechanics and Foundations,39
+ASJC,1402,39
+ASJC,2704,38
+ASJC,2302,38
+CPXCLASS,Mass Transfer,38
+CPXCLASS,Magnetism: Basic Concepts and Phenomena,38
+CABSCLASS,PROTEIN BIOCHEMISTRY,38
+EMCLASS,Rehabilitation and Physical Medicine,37
+FLXCLASS,COASTAL AND OCEAN ENGINEERING,37
+CPXCLASS,Fiber Optics,37
+ASJC,3308,37
+CPXCLASS,Personnel,36
+ASJC,1703,36
+ASJC,1801,36
+ASJC,1904,36
+ASJC,2805,36
+ASJC,3108,36
+CPXCLASS,Plastics Products,36
+ASJC,1107,35
+CPXCLASS,Machine Learning,35
+CPXCLASS,Alkali Metals,35
+ASJC,1309,35
+ASJC,3611,35
+ASJC,3309,35
+CPXCLASS,Temperature Measurements,35
+ASJC,2702,34
+CPXCLASS,Metals Corrosion,34
+ASJC,3311,34
+CPXCLASS,Electric Batteries,34
+CPXCLASS,Production Planning and Control,34
+ASJC,1206,34
+EMCLASS,Epilepsy Abstracts,34
+CPXCLASS,Aluminum,34
+ASJC,3001,33
+ASJC,3506,33
+ASJC,3401,33
+ASJC,1902,33
+CPXCLASS,Automatic Control Principles and Applications,33
+ASJC,3202,33
+ASJC,2745,33
+CPXCLASS,Groundwater,33
+CPXCLASS,Solar Cells,33
+ASJC,2602,33
+CPXCLASS,Computer Peripheral Equipment,32
+CABSCLASS,ENDOCRINOLOGY AND METABOLISM,32
+ASJC,1210,32
+EMCLASS,"Drug Dependence, Alcohol Abuse and Alcoholism",32
+CPXCLASS,"Computer Theory (Includes Formal Logic, Automata Theory, Switching Theory and Programming Theory)",32
+CPXCLASS,Surveying,32
+CPXCLASS,Telephone Systems and Equipment,32
+CPXCLASS,Packaging Materials,32
+CPXCLASS,Surface Water,32
+CPXCLASS,Dielectric Materials,32
+ASJC,3501,31
+CPXCLASS,Roads and Streets,31
+CPXCLASS,Maintenance,31
+CPXCLASS,Water Analysis,31
+CPXCLASS,Industrial Engineering and Management,31
+CABSCLASS,TOXICOLOGY,31
+CPXCLASS,Precipitation,31
+CPXCLASS,Pulse Circuits,30
+ASJC,1409,30
+CPXCLASS,Crystal Growth,30
+CPXCLASS,Structural Design,30
+ASJC,2202,30
+CPXCLASS,Titanium and Alloys,30
+ASJC,3505,30
+ASJC,2206,30
+CPXCLASS,Space Physics,30
+CPXCLASS,Municipal and Industrial Wastes,29
+CPXCLASS,Development Operations,29
+CPXCLASS,Storage,29
+CPXCLASS,Radiation Measuring Instruments,29
+CPXCLASS,Fiber Products,29
+ASJC,2711,29
+CPXCLASS,"Structural Design, General",28
+CPXCLASS,Steel,28
+CPXCLASS,Computer Programming Languages,28
+CPXCLASS,Ore Treatment,28
+CPXCLASS,Materials Handling Methods,28
+ASJC,1908,28
+ASJC,3404,28
+CPXCLASS,Mathematical Transformations,27
+CPXCLASS,Database Systems,27
+CPXCLASS,Wood and Wood Products,27
+FLXCLASS,THE ATMOSPHERE,27
+ASJC,1301,27
+CPXCLASS,Control Instrumentation,26
+ASJC,3205,26
+ASJC,2603,26
+ASJC,1212,26
+CPXCLASS,Construction Equipment and Methods,26
+CPXCLASS,Copper Alloys,26
+CPXCLASS,Nickel Alloys,26
+CPXCLASS,Mechanical Variables Measurements,26
+CPXCLASS,Heat Exchange Equipment and Components,25
+CPXCLASS,"Biomedical Equipment, General",25
+CPXCLASS,Education,25
+CPXCLASS,Fiber Chemistry and Processing,25
+CPXCLASS,Alkaline Earth Metals,25
+CPXCLASS,Electric Equipment,25
+CPXCLASS,Electric Transmission and Distribution,25
+GEOCLASS,Applications,25
+CPXCLASS,Radar Systems and Equipment,25
+CPXCLASS,Applied Physics Generally,25
+ASJC,3607,24
+GEOCLASS,Concepts and issues in environmental planning,24
+ASJC,3402,24
+CPXCLASS,Computer Systems and Equipment,24
+CPXCLASS,Energy Resources and Renewable Energy Issues,24
+CPXCLASS,Rare Earth Metals,24
+CPXCLASS,Iron,24
+CPXCLASS,Specific Variables Control,24
+CPXCLASS,Urban Planning and Development,24
+EMCLASS,Nuclear Medicine,23
+CPXCLASS,Machine Components,23
+CPXCLASS,Diesel Engines,23
+ASJC,1207,23
+CPXCLASS,Bioengineering and Biology,23
+CPXCLASS,"Biomechanics, Bionics and Biomimetics",23
+ASJC,3605,23
+FLXCLASS,LUBRICATION,23
+GEOCLASS,Contamination and remediation,23
+CPXCLASS,Industrial Engineering,23
+CPXCLASS,Oil Fields,23
+CPXCLASS,Speech,23
+ASJC,2607,22
+CPXCLASS,Inventory Control,22
+CPXCLASS,Elastomers,22
+CPXCLASS,Special Purpose Instruments,22
+GEOCLASS,Planning - General,22
+CPXCLASS,Fires and Fire Protection,22
+CPXCLASS,Seismology,22
+CPXCLASS,Natural Fibers,22
+CPXCLASS,Petroleum Deposits,22
+CPXCLASS,Energy Conversion Issues,22
+CPXCLASS,Public Buildings,22
+GEOCLASS,Waste Management and Pollution Policy,22
+ASJC,3321,21
+ASJC,2743,21
+CPXCLASS,"Seawater, Tides and Waves",21
+CPXCLASS,Masonry Materials,21
+CPXCLASS,Conducting Materials,21
+GEOCLASS,Animal ecology,21
+CPXCLASS,Air Conditioning,21
+CPXCLASS,Highway Transportation,21
+CPXCLASS,Automobiles,21
+ASJC,2809,21
+CPXCLASS,Electric Power Distribution,20
+GEOCLASS,Pollution,20
+CPXCLASS,Radiation Measurements,20
+CPXCLASS,Foundry Practice,20
+CPXCLASS,Marine Science and Oceanography,20
+GEOCLASS,Plant ecology,20
+ASJC,3109,20
+CPXCLASS,"Aircraft, General",20
+GEOCLASS,Regional and general,19
+CPXCLASS,Energy Losses (industrial and residential),19
+ASJC,3317,19
+CPXCLASS,Mechanical Design,19
+CPXCLASS,Electroplating,19
+CPXCLASS,Computer Hardware,19
+ASJC,1302,19
+CPXCLASS,Computer Circuits,18
+CPXCLASS,Vanadium and Alloys,18
+CPXCLASS,Genetic Engineering,18
+CPXCLASS,Iron Alloys,18
+CPXCLASS,Gems,18
+CPXCLASS,Manufacturing,18
+CPXCLASS,Urban and Regional Planning and Development,18
+CPXCLASS,Lead and Alloys,18
+GEOCLASS,Pollution and waste recycling,18
+CPXCLASS,Magnetic Materials,17
+GEOCLASS,Social Planning,17
+CPXCLASS,Petroleum Products,17
+CPXCLASS,"Pipe, Piping and Pipelines",17
+CPXCLASS,Machining Operations,17
+CPXCLASS,Energy Management,17
+ASJC,3204,17
+CPXCLASS,"Hospitals, Equipment and Supplies",17
+CPXCLASS,Energy Policy,17
+ASJC,2612,17
+ASJC,3206,16
+CPXCLASS,Satellites,16
+CPXCLASS,Inorganic Polymers,16
+CPXCLASS,Tanks,16
+ASJC,2911,16
+GEOCLASS,Perception,16
+ASJC,2902,16
+CPXCLASS,Mechanical Devices,16
+CPXCLASS,Codes and Standards,16
+CPXCLASS,Optical Communication Systems,16
+CPXCLASS,Water Supply Systems,16
+ASJC,2609,16
+CPXCLASS,Protection Methods,16
+GEOCLASS,Deformation and strength characteristics,16
+ASJC,3302,15
+GEOCLASS,Influence of dynamic loads,15
+CPXCLASS,Rubber Products,15
+CPXCLASS,Materials Handling Equipment,15
+CPXCLASS,Reservoirs,15
+FLXCLASS,POWER GENERATION AND POWER PLANTS,15
+CPXCLASS,Vision,15
+ASJC,1211,15
+CPXCLASS,Chromium and Alloys,15
+ASJC,1204,15
+ASJC,2909,15
+CPXCLASS,Highway Engineering,15
+CPXCLASS,Hydraulic Equipment and Machinery,15
+CPXCLASS,Mechanical Transmissions,14
+ASJC,2919,14
+CPXCLASS,Biomaterials (including synthetics),14
+GEOCLASS,Palaeoclimatology,14
+CPXCLASS,Television Systems and Equipment,14
+CPXCLASS,Natural Gas Deposits,14
+CPXCLASS,Bioinformatics,14
+ASJC,2905,14
+CPXCLASS,Air Pollution,14
+CPXCLASS,Flood Control,14
+CPXCLASS,"Oceanography, General",14
+CPXCLASS,Photographic and Video Equipment,14
+CPXCLASS,Food Products Plants and Equipment,14
+CPXCLASS,Foundations,14
+CPXCLASS,Geology and Geophysics,14
+CPXCLASS,"Chemical Engineering, General",13
+CPXCLASS,"Environmental Engineering, General",13
+CPXCLASS,Expert Systems,13
+CPXCLASS,"Civil Engineering, General",13
+CPXCLASS,Mechanical Drives and Transmissions,13
+GEOCLASS,Underground excavations,13
+CPXCLASS,Metal Forming,13
+CPXCLASS,Tin and Alloys,13
+CPXCLASS,Construction Equipment,13
+CPXCLASS,Earthquake Measurements and Analysis,13
+CPXCLASS,Bridges,12
+GEOCLASS,Environmental Economics,12
+CPXCLASS,Printing,12
+CPXCLASS,Electric Variables Measurements,12
+CPXCLASS,Chemical Apparatus and Plants,12
+GEOCLASS,"INDUSTRY, INDUSTRIAL POLICY",12
+ASJC,2807,12
+CPXCLASS,Superconducting Materials,12
+ASJC,2913,12
+ASJC,3307,12
+CPXCLASS,Cost Accounting,12
+CPXCLASS,Fluid Flow,12
+GEOCLASS,Foundations and piles,12
+CPXCLASS,Optical Instruments,12
+GEOCLASS,Diseases,12
+CPXCLASS,Lithium and Alloys,12
+CPXCLASS,Water Pollution Sources,12
+GEOCLASS,Atmospheric pollution,12
+ASJC,3102,12
+CPXCLASS,Particle Accelerators,12
+ASJC,3609,11
+CPXCLASS,Papermaking Processes,11
+CPXCLASS,Gas Dynamics,11
+CPXCLASS,Sewage Treatment,11
+CPXCLASS,Geochemistry,11
+ASJC,2608,11
+CPXCLASS,Food Processing Operations,11
+CPXCLASS,Single Element Semiconducting Materials,11
+ASJC,1913,11
+GEOCLASS,Remote sensing,11
+ASJC,3603,11
+CPXCLASS,Synthetic and Natural Fibers,11
+CPXCLASS,Robot Applications,11
+CPXCLASS,Compound Semiconducting Materials,11
+CPXCLASS,Energy Resources,11
+GEOCLASS,Groundwater quality,11
+CPXCLASS,Industrial Furnaces and Components,11
+GEOCLASS,Natural Hazards,11
+CPXCLASS,Coating Techniques,11
+EMCLASS,Forensic Science Abstracts,11
+CPXCLASS,Heavy Metal Mines,11
+CPXCLASS,Heavy Duty Motor Vehicles,11
+CPXCLASS,Information Services,11
+CPXCLASS,Prosthetics,10
+CPXCLASS,Fuel Combustion,10
+CPXCLASS,Energy Management and Conversion,10
+CPXCLASS,Energy Conversion,10
+CPXCLASS,Pumps,10
+CPXCLASS,Ultrasonic Waves,10
+CPXCLASS,Electric Networks,10
+CPXCLASS,Electric Power Lines and Equipment,10
+CPXCLASS,Control System Applications,10
+CPXCLASS,Brick Materials,10
+CPXCLASS,Coastal Engineering,10
+CPXCLASS,Telecommunication,10
+CPXCLASS,Electric Filters,10
+GEOCLASS,Marine ecology,10
+ASJC,1903,10
+GEOCLASS,HAZARDS AND DISASTER PLANNING,10
+GEOCLASS,Tunnels,10
+GEOCLASS,Political,10
+GEOCLASS,Fisheries and aquatic resources,10
+GEOCLASS,Water Resources,10
+ASJC,2806,10
+GEOCLASS,"Runoff, streamflow and basins",10
+CPXCLASS,"Minor, Precious and Rare Earth Metals and Alloys",10
+CPXCLASS,"Electronic Equipment, Radar, Radio and Television",9
+CPXCLASS,Electromagnetic Waves in Relation to Various Structures,9
+CPXCLASS,Tungsten and Alloys,9
+GEOCLASS,Transport and Communicatons,9
+CPXCLASS,Value Engineering,9
+CPXCLASS,Refrigeration Equipment and Components,9
+CPXCLASS,Concrete Reinforcements,9
+GEOCLASS,National and Local Planning,9
+GEOCLASS,Slopes,9
+CPXCLASS,Human Engineering,9
+CPXCLASS,Rail Transportation,9
+CPXCLASS,"Wind Power (Before 1993, use code 611)",9
+CPXCLASS,"Radioactive Materials, General",9
+GEOCLASS,Sediments and sedimentary processes - transport,9
+CPXCLASS,Energy Losses/Dissipation,9
+ASJC,3600,9
+CPXCLASS,Liquid Dynamics,9
+CPXCLASS,Rolling Mill Practice,9
+CPXCLASS,Strength of Building Materials,9
+CPXCLASS,Manganese and Alloys,9
+CPXCLASS,Food Technology,9
+GEOCLASS,Engineering seismology,9
+CPXCLASS,Magnesium and Alloys,9
+CPXCLASS,Acoustic Waves,9
+CPXCLASS,Amorphous Solids,9
+CPXCLASS,Sewage and Industrial Wastes Treatment,9
+ASJC,2901,9
+CPXCLASS,Small Marine Craft,9
+ASJC,3319,9
+GEOCLASS,Evolution and Speciation,9
+GEOCLASS,Capital and Investments,9
+CPXCLASS,Information Dissemination,9
+CPXCLASS,Radioactive Materials,8
+CPXCLASS,Electric and Electronic Instruments,8
+ASJC,2601,8
+ASJC,1504,8
+CPXCLASS,Textile Products and Processing,8
+GEOCLASS,TRANSPORT AND COMMUNICATIONS,8
+GEOCLASS,Water resources development - general,8
+CPXCLASS,Safety Engineering,8
+CPXCLASS,Information Science,8
+CPXCLASS,Hydroelectric Power Plants,8
+GEOCLASS,Vertebrates,8
+CPXCLASS,Temperature Measuring Instruments,8
+CPXCLASS,Electronic Structure of Solids,8
+GEOCLASS,Applied sedimentology,8
+GEOCLASS,Agriculture,8
+CPXCLASS,Other Electronic Circuits,8
+CPXCLASS,Photographic Equipment,8
+GEOCLASS,Hydrocarbons,8
+CPXCLASS,Nuclear Reactors,8
+GEOCLASS,Earthquakes,8
+CPXCLASS,"Mortar (Before 1993, use code 412)",8
+CPXCLASS,Highway Systems,8
+FLXCLASS,VESSELS AND MARINE ENGINEERING,8
+GEOCLASS,Arable,8
+CPXCLASS,Polymers and Polymer Science,8
+CPXCLASS,"Air Transportation, General",8
+CPXCLASS,Air Transportation,7
+CPXCLASS,Photography,7
+CPXCLASS,Agricultural Chemicals,7
+ASJC,2914,7
+GEOCLASS,Evaporation and transpiration,7
+CPXCLASS,Rubber and Elastomer Processing,7
+CPXCLASS,Sewage,7
+CPXCLASS,Electricity and Magnetism,7
+CPXCLASS,Laser Applications,7
+CPXCLASS,Cryogenics,7
+CPXCLASS,Amplifiers,7
+CPXCLASS,Acoustical and Optical Measuring Instruments,7
+CPXCLASS,"Petroleum Refining, General",7
+ENCOMPASSCLASS,Natural Gas,7
+CPXCLASS,Small Tools and Hardware,7
+CPXCLASS,Gas Turbines and Engines,7
+CPXCLASS,Electric Generators,7
+CPXCLASS,Steam Power Plants,7
+CPXCLASS,"Textile Mills, Machinery and Equipment",7
+GEOCLASS,Fuel and Energy,7
+GEOCLASS,Regional,7
+GEOCLASS,PALAEOECOLOGY,7
+CPXCLASS,Highway Traffic Control,7
+CPXCLASS,Meteorological Instrumentation,7
+CPXCLASS,Military Engineering,7
+CPXCLASS,Wind Power,7
+CPXCLASS,Waveguides,7
+CPXCLASS,Waterways,7
+CPXCLASS,Waterway Transportation,7
+CPXCLASS,Product Development,7
+ASJC,2917,7
+CPXCLASS,Mine and Quarry Operations,7
+GEOCLASS,Surface water quality,7
+CPXCLASS,Process Heating,7
+CPXCLASS,Nanofluidics,7
+GEOCLASS,Urban Planning,7
+CPXCLASS,Woodlands and Forestry,6
+GEOCLASS,Pollution control and remediation,6
+GEOCLASS,Sedimentary geochemistry,6
+GEOCLASS,Heavy metals,6
+ASJC,2801,6
+CPXCLASS,Dental Equipment and Supplies,6
+GEOCLASS,Plate tectonics,6
+GEOCLASS,Environmental Assessment and Monitoring,6
+CPXCLASS,Biomaterials,6
+CPXCLASS,Ultrasonic Applications,6
+CPXCLASS,Biomechanics,6
+GEOCLASS,"GIS, Remote Sensing",6
+ASJC,2921,6
+CPXCLASS,"Light, Optics and Optical Devices",6
+CPXCLASS,Automobile and Smaller Vehicle Components,6
+CPXCLASS,Passenger Railroad Transportation,6
+CPXCLASS,Residences,6
+CPXCLASS,Moisture Measurements,6
+CPXCLASS,"Highway Transportation, General",6
+CPXCLASS,Mechanical Instruments,6
+CPXCLASS,Maritime Structures,6
+CPXCLASS,Packaging,6
+CPXCLASS,Papermaking Equipment,6
+CPXCLASS,Radioactive Material Applications,6
+CPXCLASS,Legal Aspects,6
+CPXCLASS,Petroleum Refineries,6
+CPXCLASS,Laser Beam Interactions,6
+CPXCLASS,Logic Elements,6
+CPXCLASS,Mortar,5
+CPXCLASS,"Railroad Transportation, General",5
+GEOCLASS,Labour and Income,5
+CPXCLASS,"Railway Plant and Structures, General",5
+CPXCLASS,Air Navigation and Traffic Control,5
+GEOCLASS,Modelling and numerical methods,5
+CPXCLASS,AC Motors,5
+CPXCLASS,Heat Insulating Materials,5
+CPXCLASS,Vacuum Technology,5
+CPXCLASS,Vacuum Applications,5
+CPXCLASS,Construction Methods,5
+GEOCLASS,Non-metals,5
+CPXCLASS,Polymer Applications,5
+GEOCLASS,Hydrochemistry,5
+GEOCLASS,General pollution,5
+CPXCLASS,"Gravitation, Relativity and String Theory",5
+CPXCLASS,Acoustic Noise,5
+CPXCLASS,Welding,5
+CPXCLASS,"Rail Transportation, General",5
+CPXCLASS,Nuclear Power Plants,5
+GEOCLASS,"FINANCIAL SECTOR, DEBT",5
+CPXCLASS,Rehabilitation Engineering and Assistive Technology,5
+GEOCLASS,ENERGY,5
+GEOCLASS,Conservation and habitat improvement,5
+CPXCLASS,Processing of Plastics and Other Polymers,5
+GEOCLASS,Coastal and Marine Management,5
+CPXCLASS,Other Structural Materials,5
+CPXCLASS,Fuel Combustion and Flame Research,5
+CPXCLASS,Primary Batteries,5
+ASJC,3503,5
+GEOCLASS,Oil and chemical pollution,5
+CPXCLASS,Ventilation,5
+CPXCLASS,Hydraulics,5
+GEOCLASS,Tourism and Recreation,5
+CPXCLASS,Secondary Earthquake Effects,5
+CPXCLASS,"Electrical Engineering, General",5
+CPXCLASS,Human Rehabilitation Engineering,5
+CPXCLASS,Synthetic Fibers,5
+GEOCLASS,Soil water,5
+GEOCLASS,TOURISM,5
+GEOCLASS,Weather and climate forecasting,5
+CPXCLASS,Electromagnetic Waves in Different Media,5
+CPXCLASS,Soldering,5
+ASJC,2910,5
+CPXCLASS,Space Research,5
+ASJC,2908,5
+CPXCLASS,"Space Heating, Ventilation and Air Conditioning",5
+CPXCLASS,Machine Tool Accessories,5
+GEOCLASS,Sedimentary environments - terrestrial,5
+CPXCLASS,Pipe Accessories,5
+CPXCLASS,Corrosion Protection,5
+CPXCLASS,Metal Plating,5
+CPXCLASS,Microbiology,5
+GEOCLASS,Policy,5
+CPXCLASS,"Metals, Plastics, Wood and Other Structural Materials",5
+CPXCLASS,Thermoelectric Energy,5
+ASJC,3201,5
+CPXCLASS,Marketing,4
+GEOCLASS,CULTURE AND DEVELOPMENT,4
+GEOCLASS,Biological and integrated control,4
+GEOCLASS,Benthic and hydrothermal communities,4
+GEOCLASS,Base courses and pavements,4
+CPXCLASS,Mechanical Drives,4
+GEOCLASS,Applied seismology,4
+GEOCLASS,URBANISATION AND URBAN PLANNING,4
+CPXCLASS,Packaging Equipment,4
+GEOCLASS,Political systems and political change,4
+GEOCLASS,"Coasts, reefs and atolls",4
+ASJC,3616,4
+CPXCLASS,Acoustic Properties of Materials,4
+ENCOMPASSCLASS,Oil Field Chemicals,4
+CPXCLASS,Military Aircraft,4
+ASJC,1800,4
+ASJC,1410,4
+GEOCLASS,Regional structure and tectonics,4
+GEOCLASS,"SOCIAL POLICY, OTHER SOCIAL SERVICES",4
+GEOCLASS,Structural geology and tectonics,4
+CPXCLASS,Metal Cutting,4
+ASJC,3318,4
+GEOCLASS,"MIGRATION, REFUGEES, RESETTLEMENT. LABOUR MIGRATION",4
+GEOCLASS,Gender Studies,4
+GEOCLASS,Marine and coastal environment,4
+GEOCLASS,GENERAL MICROBIAL ECOLOGY,4
+CPXCLASS,Nuclear Physics,4
+GEOCLASS,Methods and management,4
+GEOCLASS,Migration,4
+CPXCLASS,Solid State Lasers,4
+GEOCLASS,The Holocene,4
+CPXCLASS,Geophysics,4
+GEOCLASS,"POVERTY, WELFARE AND INCOME DISTRIBUTION",4
+GEOCLASS,Education,4
+GEOCLASS,Economic geochemistry,4
+GEOCLASS,Economic Geography,4
+GEOCLASS,Reinforced earth and geosynthetics,4
+GEOCLASS,EDUCATION AND TRAINING,4
+GEOCLASS,Depositional environments,4
+GEOCLASS,Cultural,4
+CPXCLASS,"Mines and Mining, Coal",4
+CPXCLASS,Oil Field Equipment,4
+CPXCLASS,Rubber Factories and Machinery,4
+CPXCLASS,"Electronic Equipment, General Purpose and Industrial",4
+CPXCLASS,Welding Processes,4
+CPXCLASS,Dams,4
+CPXCLASS,Railroad Transportation,4
+CPXCLASS,Electric Lamps,4
+CPXCLASS,Rubber and Elastomers,4
+CPXCLASS,Space Flight,4
+CPXCLASS,Compressors,4
+CPXCLASS,Conveyors,4
+CPXCLASS,Electronic Components and Tubes,4
+CPXCLASS,Engineering Professional Aspects,4
+CPXCLASS,Airports,4
+CPXCLASS,Electronic Circuits,4
+CPXCLASS,Electric Network Analysis,4
+CPXCLASS,Tunnels and Tunneling,4
+GEOCLASS,Earthquake mechanisms and effects,3
+GEOCLASS,GEOCHRONOLOGY,3
+GEOCLASS,Freshwater ecology,3
+CPXCLASS,Radioisotopes,3
+GEOCLASS,Forestry,3
+GEOCLASS,Fisheries,3
+CPXCLASS,Geothermal Energy,3
+GEOCLASS,Coastal protection,3
+GEOCLASS,"Conflict, protest, human rights",3
+ASJC,3502,3
+CPXCLASS,Operations Research,3
+CPXCLASS,Geophysical Prospecting,3
+GEOCLASS,Effects of pollution and environmental disturbance,3
+CPXCLASS,"Coatings, Finishes and Thin Film Deposition",3
+GEOCLASS,WOMEN AND GENDER ISSUES,3
+GEOCLASS,"Social, economic and political aspects of rural change",3
+GEOCLASS,Dynamic properties,3
+GEOCLASS,Tidal and estuarine ecology,3
+CPXCLASS,DC Motors,3
+CPXCLASS,Tantalum and Alloys,3
+CPXCLASS,"Railroad Plant and Structures, General",3
+CPXCLASS,Refractories,3
+CPXCLASS,Mineralogy,3
+ASJC,2922,3
+CPXCLASS,Rubber Applications,3
+GEOCLASS,Population Genetics,3
+GEOCLASS,"PRIVATE INVESTMENT FLOWS, MULTINATIONALS",3
+CPXCLASS,Turbines and Steam Turbines,3
+CPXCLASS,Mines and Quarry Equipment and Operations,3
+CPXCLASS,Control Devices,3
+CPXCLASS,Refrigeration Methods,3
+GEOCLASS,Reef communities,3
+CPXCLASS,Molybdenum and Alloys,3
+CPXCLASS,Synthetic Rubber,3
+GEOCLASS,"Macroalgal, seagrass and mangrove communities",3
+CPXCLASS,Telephone Systems and Related Technologies,3
+GEOCLASS,Igneous petrology and processes,3
+GEOCLASS,Secondary,3
+GEOCLASS,Sediment geochemistry,3
+CPXCLASS,Water Treatment Techniques for Industrial Use,3
+GEOCLASS,Chemistry,3
+CPXCLASS,"Waterway Transportation, General",3
+CPXCLASS,Gravitation and Relativity,3
+GEOCLASS,Global and Regional Planning,3
+GEOCLASS,Coastal landforms,3
+GEOCLASS,Pollination and seed dispersal,3
+GEOCLASS,Adaptation,3
+GEOCLASS,Biotechnology,3
+GEOCLASS,Aerosols,3
+CPXCLASS,Space Heating and Air Conditioning,3
+CPXCLASS,"Lasers, General",3
+CPXCLASS,"Machine Tools, General",3
+CPXCLASS,Passenger Highway Transportation,3
+CPXCLASS,Magnetohydrodynamic (MHD) Power Generation,3
+CPXCLASS,Acoustic Devices,3
+CPXCLASS,"Internal Combustion Engines, General",3
+CPXCLASS,Lubricants,3
+GEOCLASS,Biota,3
+CPXCLASS,Petroleum and Related Deposits,3
+ASJC,2903,3
+ASJC,1905,3
+CPXCLASS,Agricultural Machinery and Equipment,3
+ENCOMPASSCLASS,Automotive,2
+GEOCLASS,Planktonic ecosystems,2
+ASJC,3613,2
+GEOCLASS,Sea-level and river terraces,2
+GEOCLASS,"INTERNATIONAL RELATIONS, INTERNATIONAL FINANCIAL INSTITUTIONS",2
+CPXCLASS,"Automotive Engineering, General",2
+GEOCLASS,Hydrogeology,2
+GEOCLASS,"Pest, disease and weed control",2
+CPXCLASS,Natural Gas Fields,2
+GEOCLASS,Housing,2
+GEOCLASS,Herbivory,2
+GEOCLASS,Sedimentary environments - oceanic,2
+GEOCLASS,Pests,2
+CPXCLASS,Nonlinear Optics,2
+GEOCLASS,Sea level,2
+GEOCLASS,Pollutant transport,2
+GEOCLASS,Seismic theory,2
+GEOCLASS,Services,2
+GEOCLASS,Glacial landforms and sediments,2
+GEOCLASS,Chronology,2
+GEOCLASS,"Geochronology, stratigraphy and palaeontology",2
+CPXCLASS,Plastics Processing,2
+GEOCLASS,Social Geography - General,2
+GEOCLASS,General and chronology,2
+GEOCLASS,Agricultural research and extension,2
+CPXCLASS,Automobiles and Smaller Vehicles,2
+GEOCLASS,"Permeability, porosity and capillarity",2
+CPXCLASS,Acoustical Instruments,2
+CPXCLASS,Asphalt,2
+GEOCLASS,Precipitation assessment,2
+CPXCLASS,Regional Planning and Development,2
+CPXCLASS,Sound Insulating Materials,2
+GEOCLASS,Nekton,2
+GEOCLASS,"Protected areas, wildlife conservation",2
+CPXCLASS,Pneumatics,2
+GEOCLASS,Palaeomagnetism,2
+GEOCLASS,National Trade and Consumption,2
+GEOCLASS,NONGOVERNMENTAL ORGANISATIONS AND PEOPLE'S PARTICIPATION,2
+CPXCLASS,Antimony and Alloys,2
+GEOCLASS,Metals,2
+GEOCLASS,Science and Technology,2
+GEOCLASS,Regional weather patterns,2
+CPXCLASS,Libraries,2
+CPXCLASS,Acoustic Generators,2
+GEOCLASS,Participation and Decision-Making,2
+GEOCLASS,Socioeconomic Indicators,2
+CPXCLASS,High Temperature Superconducting Materials,2
+CPXCLASS,Abrasive Materials,2
+GEOCLASS,"LABOUR AND MANAGEMENT, EMPLOYMENT POLICY",2
+GEOCLASS,Rock mechanics,2
+CPXCLASS,AC Generators,2
+CPXCLASS,Computer Circuits and Logic Elements,2
+GEOCLASS,Water resources and management,2
+CPXCLASS,Mechanisms,2
+ASJC,2906,2
+CPXCLASS,Oscillators,2
+GEOCLASS,Tertiary,2
+GEOCLASS,Economic History,2
+GEOCLASS,Economic Geography - General,2
+CPXCLASS,"Small Tools, Unpowered",2
+CPXCLASS,"Spacecraft, General",2
+GEOCLASS,"Air masses, Atmospheric motion",2
+GEOCLASS,Tropics and sub-tropics,2
+CPXCLASS,Coal Mines,2
+GEOCLASS,Tropics and subtropics,2
+CPXCLASS,Optical Communication,2
+GEOCLASS,Deformation mechanisms and processes,2
+CPXCLASS,Impact of Technology on Society,2
+GEOCLASS,Dams and embankments,2
+CPXCLASS,Industrial and Agricultural Buildings,2
+GEOCLASS,Crop and livestock production - general,2
+CPXCLASS,Electric Motors,2
+GEOCLASS,Construction methods,2
+CPXCLASS,Production Control,2
+GEOCLASS,"Compression, swelling and consolidation",2
+CPXCLASS,Electric Components and Equipment,2
+CPXCLASS,Marine Drilling Rigs and Platforms,2
+GEOCLASS,Chemical and physical changes,2
+CPXCLASS,"Cellulose, Paper and Wood Products",2
+GEOCLASS,Clay minerals,2
+CPXCLASS,Combat Naval Vessels,2
+GEOCLASS,Transport Planning,2
+GEOCLASS,TRADE AND TRADE POLICY,2
+CPXCLASS,Communication Satellites,2
+GEOCLASS,Soil stabilisation,2
+GEOCLASS,Soil studies,2
+GEOCLASS,Air-sea interaction,2
+ASJC,2904,2
+CPXCLASS,Pressure Measuring Instruments,2
+CPXCLASS,Geothermal Phenomena,2
+GEOCLASS,FORESTRY,2
+GEOCLASS,"FOOD, FOOD SUPPLY",2
+GEOCLASS,Species,2
+CPXCLASS,"Electric Machinery, General",2
+GEOCLASS,Surface installations,2
+CPXCLASS,Ocean Engineering,2
+CPXCLASS,Ship Equipment,2
+CPXCLASS,Magnetic Variables Measurements,1
+CPXCLASS,Cranes,1
+ASJC,2714,1
+CPXCLASS,Locomotives,1
+CPXCLASS,Electric Lighting,1
+GEOCLASS,Social Geography,1
+GEOCLASS,Waves and oscillations,1
+GEOCLASS,Water supply and sanitation,1
+CPXCLASS,Land Reclamation,1
+GEOCLASS,Waste disposal,1
+GEOCLASS,"Spatial Analysis, Location Theory",1
+CPXCLASS,Space Heating,1
+GEOCLASS,Social History,1
+GEOCLASS,Pollution and waste management - radioactive,1
+CPXCLASS,Metals Corrosion and Protection,1
+ASJC,2907,1
+CPXCLASS,Light Metal Mines,1
+CPXCLASS,Rockets and Missiles,1
+GEOCLASS,Water resources,1
+CPXCLASS,Mechatronics,1
+CPXCLASS,Earthquake Resistance,1
+CPXCLASS,Metal Refining,1
+GEOCLASS,Restoration ecology,1
+GEOCLASS,Properties of minerals,1
+CPXCLASS,Smaller Vehicles,1
+CPXCLASS,Inspection,1
+GEOCLASS,"Storms, disturbances, cyclones",1
+CPXCLASS,Earth Magnetism and Terrestrial Electricity,1
+CPXCLASS,Lubrication,1
+CPXCLASS,Metallurgical Furnaces,1
+CPXCLASS,Electric and Electronic Measuring Instruments,1
+GEOCLASS,Regional and Economic Planning,1
+CPXCLASS,Leather,1
+GEOCLASS,Wetlands and estuaries,1
+CPXCLASS,Holography,1
+CPXCLASS,Metal Forming Practice,1
+GEOCLASS,Rainfall processes,1
+CPXCLASS,Societies and Institutions,1
+GEOCLASS,ROCK AND SOIL REINFORCEMENT AND SUPPORT,1
+CPXCLASS,Control System Stability,1
+GEOCLASS,REGIONAL AND SPATIAL DEVELOPMENT AND PLANNING,1
+CPXCLASS,Electroless Plating,1
+CPXCLASS,Industrial Hygiene,1
+GEOCLASS,Precipitation quality,1
+CPXCLASS,Aircraft Instruments and Equipment,1
+CPXCLASS,"Thermoelectric, Magnetohydrodynamic and Other Power Generators",1
+GEOCLASS,"DEMOGRAPHY, POPULATION POLICY",1
+CPXCLASS,Cellular Manufacturing,1
+CPXCLASS,Gas Lasers,1
+GEOCLASS,Cartography,1
+GEOCLASS,Case studies,1
+GEOCLASS,Chemical control,1
+GEOCLASS,"Climate, climate change",1
+GEOCLASS,Coastal protection measures,1
+CPXCLASS,Processing Agents,1
+GEOCLASS,Crop and livestock production - technical aspects,1
+GEOCLASS,Crystallography,1
+CPXCLASS,Civil Defense and Military Engineering,1
+CPXCLASS,Optical Communication Equipment,1
+GEOCLASS,Environmental effects,1
+CPXCLASS,Elevators,1
+GEOCLASS,Descriptive,1
+GEOCLASS,Dynamic meteorology,1
+CPXCLASS,Coal Tar,1
+GEOCLASS,ENGINEERING GEOLOGY,1
+GEOCLASS,Earth retaining structures,1
+GEOCLASS,Economic,1
+GEOCLASS,Economic Development,1
+CPXCLASS,Electronic and Thermionic Materials,1
+GEOCLASS,Economic geology,1
+GEOCLASS,Electricity,1
+GEOCLASS,Biological uptake,1
+CPXCLASS,Engineering Graphics,1
+GEOCLASS,Biogeochemical cycles,1
+CPXCLASS,Brickmaking,1
+CPXCLASS,Flexible Manufacturing Systems,1
+CPXCLASS,"Aerodynamics, General",1
+CPXCLASS,"Acoustics, Noise and Sound",1
+CPXCLASS,"Petrology (Before 1993, use code 482)",1
+ENCOMPASSCLASS,Fuel Reformulation,1
+CPXCLASS,Architectural Acoustics,1
+CPXCLASS,Farm Buildings and Other Structures,1
+ENCOMPASSCLASS,Transportation and Storage,1
+ASJC,1209,1
+CPXCLASS,Facsimile Systems and Equipment,1
+ASJC,3610,1
+CPXCLASS,Beryllium and Alloys,1
+CPXCLASS,Foundries,1
+ASJC,3602,1
+GEOCLASS,AGRICULTURE,1
+GEOCLASS,"Agriculture, resource development and the environment",1
+CPXCLASS,Pressure Measurements,1
+CPXCLASS,Bituminous Materials,1
+CPXCLASS,Engineering Profession,1
+CPXCLASS,Blast Furnaces,1
+GEOCLASS,Atmospheric chemistry,1
+GEOCLASS,"Bacteriology, virology and parasitology",1
+CPXCLASS,Printing and Reprography,1
+CPXCLASS,Radioactive Wastes,1
+CPXCLASS,Oceanographic Techniques,1
+CPXCLASS,Towers,1
+GEOCLASS,NUTRITION,1
+GEOCLASS,Invertebrates,1
+GEOCLASS,Karst,1
+GEOCLASS,"Land use, forestry and agriculture",1
+CPXCLASS,Water Pollution Control,1
+GEOCLASS,Marine mammals,1
+GEOCLASS,Mathematical and computing methods,1
+CPXCLASS,Moisture Measuring Instruments,1
+GEOCLASS,Mesozoic,1
+GEOCLASS,Metamorphic petrology and processes,1
+GEOCLASS,Mines and quarries,1
+CPXCLASS,Refrigerants,1
+GEOCLASS,National and Land-Use Planning,1
+GEOCLASS,Excavation failure mechanisms,1
+CPXCLASS,"Modulators, Demodulators, Limiters, Discriminators, Mixers",1
+GEOCLASS,Nature - Society Relations,1
+GEOCLASS,Nutrients,1
+GEOCLASS,Offshore structures,1
+GEOCLASS,Organic matter,1
+GEOCLASS,Palaeoecology and palaeobiogeography,1
+GEOCLASS,Palaeogeography and palaeoclimatology,1
+GEOCLASS,Palaeozoic,1
+GEOCLASS,Physical properties,1
+GEOCLASS,Physico-chemical properties,1
+CPXCLASS,"Reproduction, Copying",1
+GEOCLASS,International Trade and Economic Association,1
+CPXCLASS,Fission and Fusion Reactions,1
+GEOCLASS,"Information systems, climatic and soil conditions",1
+GEOCLASS,Igneous geochemistry,1
+GEOCLASS,Experimental mineralogy,1
+GEOCLASS,FLUID MECHANICS,1
+GEOCLASS,Fertility,1
+GEOCLASS,Fluvial landforms,1
+GEOCLASS,Forest Resources,1
+CPXCLASS,Welding and Bonding,1
+GEOCLASS,Fungi and fungal associations,1
+CPXCLASS,Nonmetallic Mines,1
+GEOCLASS,GLOBAL ECOLOGY,1
+CPXCLASS,Railroad Cars,1
+GEOCLASS,General,1
+CPXCLASS,Waterworks,1
+GEOCLASS,General underground storage,1
+GEOCLASS,Geological factors,1
+GEOCLASS,Geothermal energy,1
+GEOCLASS,Groundwater,1
+GEOCLASS,Groundwater problems and environmental effects,1
+GEOCLASS,Groundwater processes,1
+GEOCLASS,Grouting,1
+GEOCLASS,HOUSING,1
+CPXCLASS,"Railroad Rolling Stock, General",1
+GEOCLASS,INDUSTRY AND SERVICES,1
+CPXCLASS,Heat and Mass Transfer,1
+GEOCLASS,Instrumentation,1
