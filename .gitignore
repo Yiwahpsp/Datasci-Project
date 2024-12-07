@@ -41,7 +41,7 @@ ENV/
 raw-data/
 output/
 data/
-references/references_separate.csv
+references/
 
 # Logs
 *.log
