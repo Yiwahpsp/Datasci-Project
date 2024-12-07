@@ -1,2 +1,4 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+references/references_separate.csv filter=lfs diff=lfs merge=lfs -text
+data/features_summation.csv filter=lfs diff=lfs merge=lfs -text
