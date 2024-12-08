@@ -38,6 +38,7 @@ ENV/
 
 # Data and Output files
 *.json
+*.csv
 raw-data/
 output/
 data/
